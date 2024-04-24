@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Network of Copernicus Academy and Copernicus Relays</title>
+    <!-- leaflet css -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+
+    <style>
+      body{
+        margin:0;
+        padding:0;
+      }
+      #map{
+        position: relative;
+        width: 75%;
+        height: 95vh;
+        margin: auto;
+        margin-top: 20px;
+      }
+      .filter-container {
+      position: absolute;
+      width: 350px;
+      bottom: 25px;
+      left: 10px;
+      background-color: white;
+      padding: 10px; /* Increase padding for better spacing */
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+      }
+
+      .checkbox-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: left;
+      margin-top: 5px;
+      }
+
+      .filter-container label {
+      display: flex;
+      align-items: center;
+      }
+
+      .filter-container input {
+      margin-right: 5px;
+      }
+      .legend {
+        padding: 8px;
+        background: white;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        margin: 20px;
+        z-index: 999;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 200px;
+      }
+      label {
+        font-family: sans-serif;
+        font-size: 13px;
+        color: #333;
+       margin-right: 5px;
+      }
+    </style>
+  </head>
+
+  <body>
+      <div id="map">
+        <div class="filter-container">
+          <label><strong>Show:</strong></label>
+          <div class="checkbox-row">
+            <label for="academiesCheckbox">Copernicus Academy Members</label>
+            <input type="checkbox" id="academiesCheckbox" checked>
+        
+            <label for="relaysCheckbox">Copernicus Relays</label>
+            <input type="checkbox" id="relaysCheckbox" checked>
+          </div>      
+        </div>        
+      </div>
+      
+  
+
+<!--leaflet js -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+
+<!-- import relays variable from external javascript file -->
+<script src="CopernicusRelays.js"></script>
+
+<!-- import academies variable from external javascript file -->
+<script src="CopernicusAcademies.js"></script>
+
+<script> 
+  //Map initialization
+  const map = L.map('map').setView([49.5, 15],4);
+
+  // GISCO layer
+  const giscoLayer = L.tileLayer('https://gisco-services.ec.europa.eu/maps/tiles/OSMCartoComposite/EPSG3857/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://ec.europa.eu/eurostat/web/gisco/overview">EC-GISCO</a> | &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    //attribution: '© OpenStreetMap contributors, Credit: EC-GISCO'
+    });
+  giscoLayer.addTo(map);
+
+  //MARKERS
+  //Icon style
+  const myIcon_Orange = L.icon({
+    iconUrl: 'https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-Free-Download-PNG.png',
+    iconSize: [30,30],
+    });
+
+  const myIcon_Red= L.icon({
+    iconUrl: 'https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Picture.png',
+    iconSize: [40,40],
+    });
+
+  const myIcon_Academy =L.icon({
+      iconUrl: 'Academy.svg',
+      iconSize: [30, 30], 
+
+    });
+
+    const myIcon_Black = L.icon({
+    iconUrl: 'https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Clipart.png', // Adjust the URL if needed
+    iconSize: [30, 30], // Adjust width and height as required
+    });
+
+//Loop through the ACADEMIES and add markers to the cluster group
+for (let i = 0; i < academies.length; i++) {
+  const academy = academies[i];
+  const coordinates = academy.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
+
+  if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
+    let popupContentAcademies;
+    
+    //Build popup content 
+    popupContentAcademies = `
+    <strong>${academy.Name}</strong><br>
+      Primary contact: ${academy.Contact}<br>
+      Email: <a href="mailto:${academy.Email}">${academy.Email}</a><br>`;
+
+    //Add link only if academy.Link has a value
+    if (academy.Link) {
+      popupContentAcademies += ` <a href="${academy.Link}" target="_blank">More info</a>`;
+    }
+
+    const marker = L.marker(coordinates, { icon: myIcon_Academy, iconSize: [10, 50]});
+    marker.bindPopup(popupContentAcademies);
+    marker.addTo(map);
+  }
+};
+
+
+
+//Loop through the RELAYS and add markers to the cluster group
+for (let i = 0; i < relays.length; i++) {
+  const relay = relays[i];
+  const coordinates = relay.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
+
+  if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
+    let popupContentRelays; // Define a new variable to hold the popup content
+
+    // Build the basic popup content
+    popupContentRelays = `
+      <strong>${relay.Name}</strong><br>
+      Primary contact: ${relay.Contact}<br>
+      Email: <a href="mailto:${relay.Email}">${relay.Email}</a><br>`;
+
+    // Add link only if relay.Link has a value
+    if (relay.Link) {
+      popupContentRelays += ` <a href="${relay.Link}" target="_blank">More info</a>`;
+    }
+
+    const marker = L.marker(coordinates, { icon: myIcon_Orange });
+    marker.bindPopup(popupContentRelays);
+    marker.addTo(map);
+  }
+};
+
+//Legend
+const legend = L.control({position: 'topright'});
+
+legend.onAdd = function (map) {
+  const div = L.DomUtil.create('div', 'info legend');
+  div.innerHTML += '<img src="https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Picture.png" style="width: 20px; height: 20px;"> EU Space Support Office<br>';
+  div.innerHTML += '<img src="Academy.svg" style="width: 20px; height: 20px;"> Copernicus Academy Members<br>';
+  div.innerHTML += '<img src="https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-Free-Download-PNG.png" style="width: 20px; height: 20px;"> Copernicus Relays<br>';
+  return div;
+};
+
+legend.addTo(map);
+
+
+// EUSSO marker layer
+const EUSSOLayer = L.layerGroup().addTo(map);
+//Standalone popup for EUSSO
+const brusselsCoordinates = [50.8403436233206, 4.384885539104331];
+const brusselsPopupContent = `
+  <strong>EU Space Support Office</strong><br>
+  Email: <a href="mailto:support@euspace-programme.eu">support@euspace-programme.eu<br>
+  <a href="https://www.copernicus.eu/en">More info`
+const brusselsMarker = L.marker(brusselsCoordinates, {icon: myIcon_Red}).bindPopup(brusselsPopupContent).addTo(EUSSOLayer);
+
+
+// Filter checkboxes
+const academiesCheckbox = document.getElementById('academiesCheckbox');
+
+academiesCheckbox.addEventListener('change', updateMarkers);
+relaysCheckbox.addEventListener('change', updateMarkers);
+
+
+function updateMarkers() {
+  map.eachLayer(function (layer) {
+        if (layer instanceof L.Marker && layer !== EUSSOLayer.getLayers()[0]) {
+          map.removeLayer(layer);
+        }
+      });
+
+  // Add academy markers if the checkbox is checked
+  if (academiesCheckbox.checked) {
+    for (let i = 0; i < academies.length; i++) {
+      const academy = academies[i];
+      const coordinates = academy.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
+
+      if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
+        const popupContentAcademies = `
+        <strong>${academy.Name}</strong><br>
+        Primary contact: ${academy.Contact}<br>
+        Email: <a href="mailto:${academy.Email}">${academy.Email}</a><br>
+        `;
+        const marker = L.marker(coordinates, { icon: myIcon_Academy });
+        marker.bindPopup(popupContentAcademies);
+        marker.addTo(map);
+      }
+      }
+    }
+
+    // Add relay markers if the checkbox is checked
+    if (relaysCheckbox.checked) { 
+      for (let i = 0; i < relays.length; i++) {
+        const relay = relays[i];
+        const coordinates = relay.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
+
+        if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
+          const popupContent = `
+            <strong>${relay.Name}</strong><br>
+            Primary contact: ${relay.Contact}<br>
+            Email: <a href="mailto:${relay.Email}">${relay.Email}</a><br>
+          `;
+          const marker = L.marker(coordinates, { icon: myIcon_Orange });
+          marker.bindPopup(popupContent);
+          marker.addTo(map);
+        }
+      }
+    }
+
+  };
+
+//SANITY CHECK 
+
+//number of ACADEMIES
+let totalAcademies = 0;
+
+for (let i = 0; i < academies.length; i++) {
+  const academy = academies[i];
+  totalAcademies++; // Increment counter for each academy
+}
+console.log("Total Academies processed:", totalAcademies);
+
+
+//number of RELAYS
+let totalRelays = 0;
+
+for (let i = 0; i < relays.length; i++) {
+  const relay = relays[i];
+  totalRelays++; // Increment counter for each academy
+}
+console.log("Total Relays processed:", totalRelays);
+
+// duplicates Relays
+function findDuplicateRelaysByName(relays) {
+  const relayNames = new Set(); // Set to store unique relay names
+  const duplicateRelays = []; // Array to store relays with duplicate names
+
+  for (const relay of relays) {
+    const relayName = relay.Name; // Extract the Name property
+    if (relayNames.has(relayName)) { // Check if name already exists
+      duplicateRelays.push(relay);
+    } else {
+      relayNames.add(relayName); // Add unique name to the Set
+    }
+  }
+
+  if (duplicateRelays.length > 0) {
+    console.log("Duplicate Copernicus Relays (by Name):", duplicateRelays);
+  } else {
+    console.log("No duplicate Copernicus Relay Names found.");
+  }
+}
+findDuplicateRelaysByName(relays);
+
+// duplicates Relays Coordinates
+function findDuplicateRelaysCoord(relays) {
+  const relayCoords = new Set(); // Set to store unique relay coordinates
+  const duplicateCoordRelays = []; // Array to store relays with duplicate coordinates
+
+  for (const relay of relays) {
+    const relayCoord = relay.Coordinates; // Extract the Coordinate property
+    if (relayCoords.has(relayCoord)) { // Check if coordinates already exists
+      duplicateCoordRelays.push(relay);
+    } else {
+      relayCoords.add(relayCoord); // Add unique coordinates to the Set
+    }
+  }
+
+  if (duplicateCoordRelays.length > 0) {
+    console.log("Duplicate Copernicus Relays Coordinates:", duplicateRelays);
+  } else {
+    console.log("No duplicate Copernicus Relay Coordinates found.");
+  }
+}
+findDuplicateRelaysCoord(relays);
+
+// duplicates Academies
+function findDuplicateAcademiesByName(academies) {
+  const academyNames = new Set(); // Set to store unique relay names
+  const duplicateAcademies = []; // Array to store relays with duplicate names
+
+  for (const academy of academies) {
+    const academyName = academy.Name; // Extract the Name property
+    if (academyNames.has(academyName)) { // Check if name already exists
+      duplicateAcademies.push(academy);
+    } else {
+      academyNames.add(academyName); // Add unique name to the Set
+    }
+  }
+
+  if (duplicateAcademies.length > 0) {
+    console.log("Duplicate Copernicus Academy (by Name):", duplicateAcademies);
+  } else {
+    console.log("No duplicate Copernicus Academy Names found.");
+  }
+}
+findDuplicateAcademiesByName(academies);
+
+// duplicates Academies Coordinates
+function findDuplicateAcademiesCoord(academies) {
+  const academyCoords = new Set(); 
+  const duplicateCoordAcademies = []; 
+  for (const academy of academies) {
+    const academyCoord = academy.Coordinates; 
+    if (academyCoords.has(academyCoord)) { 
+      duplicateCoordAcademies.push(academy);
+    } else {
+      academyCoords.add(academyCoord); 
+    }
+  }
+
+  if (duplicateCoordAcademies.length > 0) {
+    console.log("Duplicate Copernicus Academy Coordinates:", duplicateCoordAcademies);
+  } else {
+    console.log("No duplicate Copernicus Academy Coordinates found.");
+  }
+}
+findDuplicateAcademiesCoord(academies);
+
+
+
+
+</script>
+</body>
+</html>
