@@ -641,8 +641,8 @@
     },
     {
       "Name": "Italian National Copernicus User Forum",
-      "Address": "Rome, Italy",
-      "Coordinates": "41.902783, 12.485833",
+      "Address": "Via Vitaliano Brancati, 48 - 00144 Roma (I)",
+      "Coordinates": "41.81578443359933, 12.467721872591293",
       "Contact": "Nico Bonora",
       "Email": "nico.bonora@isprambiente.it",
       "Link": "https://www.isprambiente.gov.it/it"
@@ -769,8 +769,8 @@
     },
     {
       "Name": "Namibia University of Sciences and Technology (NUST)",
-      "Address": "Storch, Windhoek, Namibia",
-      "Coordinates": "-22.570556, 17.083611",
+      "Address": "13 Jackson Kaujeua Street, Windhoek, Namibia",
+      "Coordinates": "-22.565780365614163, 17.077341482233326",
       "Contact": "Kaleb Negussie",
       "Email": "knegussie@nust.na",
       "Link": "https://www.nust.na/"
@@ -849,8 +849,8 @@
     },
     {
       "Name": "CRIAR Space Systems",
-      "Address": "Rua da Redençao, 36 - Jardim Mosteiro - Ribeirao Preto/SP, Portugal",
-      "Coordinates": "-21.179444, -47.815833",
+      "Address": "Via do Conhecimento, Edificio Central 3830-352 Aveiro, Portugal",
+      "Coordinates": "40.61920445982197, -8.667200575448117",
       "Contact": "Sergio da Silva",
       "Email": "pu2xxt@criar.space",
       "Link": ""
