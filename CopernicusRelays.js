@@ -24,7 +24,7 @@
       "Link": "https://www.spacesur.com/"
     },
     {
-      "Name": "FFG  “ Austrian Research Promotion Agency",
+      "Name": "FFG  - Austrian Research Promotion Agency",
       "Address": "Sensengasse 1  - 1090 Vienna, AUSTRIA",
       "Coordinates": "48.208353, 16.373819",
       "Contact": "Thomas Geist",
@@ -128,7 +128,7 @@
       "Link": "https://www.cmm.uchile.cl/"
     },
     {
-      "Name": "University of Chile  “ Seismic Risk Programme [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "University of Chile  - Seismic Risk Programme [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Beauchef 850, Santiago , Chile",
       "Coordinates": "-33.446111, -70.639167",
       "Contact": "Florencio Utreras",
@@ -144,7 +144,7 @@
       "Link": ""
     },
     {
-      "Name": "ONEMI  “ Oficina Nacional de Emergencia del Ministerio de Interior [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "ONEMI  - Oficina Nacional de Emergencia del Ministerio de Interior [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Almirante Barroso 27, Santiago, Region Metropolitana, Chile",
       "Coordinates": "-33.443333, -70.661111",
       "Contact": "Florencio Utreras",
@@ -152,7 +152,7 @@
       "Link": ""
     },
     {
-      "Name": "CR2  “ Center for Climate and Resilience Research (University of Chile, University of Conception and University Austral) [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "CR2  - Center for Climate and Resilience Research (University of Chile, University of Conception and University Austral) [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Blanco Encalada 2002, 4th floor, FCFM Universidad de Chile. Santiago, Chile",
       "Coordinates": "-33.427222, -70.605278",
       "Contact": "Florencio Utreras",
@@ -168,7 +168,7 @@
       "Link": ""
     },
     {
-      "Name": "University of Santiago  “ Center for IT Innovation in Social Applications (CITIAPS) [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "University of Santiago  - Center for IT Innovation in Social Applications (CITIAPS) [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Estacion Central - Santiago, Chile",
       "Coordinates": "-33.455, -70.641667",
       "Contact": "Florencio Utreras",
@@ -184,7 +184,7 @@
       "Link": "https://chiletec.org/"
     },
     {
-      "Name": "IMO  “ Millenium Institute of Oceanography [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "IMO  - Millenium Institute of Oceanography [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Edificio de OceanografÃ­a, Piso 3. Campus Universidad de Concepcion Concepcion, Chile",
       "Coordinates": "-36.812222, -73.047222",
       "Contact": "Florencio Utreras",
@@ -200,7 +200,7 @@
       "Link": ""
     },
     {
-      "Name": "MOP  “ Ministerio de Obras PÃºblicas [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "MOP  - Ministerio de Obras PÃºblicas [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Morande 59, Santiago de Chile, Chile",
       "Coordinates": "-33.445278, -70.670556",
       "Contact": "Florencio Utreras",
@@ -208,15 +208,15 @@
       "Link": "https://www.mop.gob.cl/"
     },
     {
-      "Name": "NLHPC  “ Laboratorio Nacional de Computacion de Alto Rendimiento [Member of the Copernicus Chile Relay Coalition]",
-      "Address": "Beauchef 851, Edificio Norte  “ Piso 7 - Santiago  “ CHILE",
+      "Name": "NLHPC  - Laboratorio Nacional de Computacion de Alto Rendimiento [Member of the Copernicus Chile Relay Coalition]",
+      "Address": "Beauchef 851, Edificio Norte  - Piso 7 - Santiago  - CHILE",
       "Coordinates": "-33.446389, -70.639444",
       "Contact": "Florencio Utreras",
       "Email": "futreras@dim.uchile.cl",
       "Link": "https://www.nlhpc.cl/"
     },
     {
-      "Name": "University of Zagreb  “ Faculty of Geodesy",
+      "Name": "University of Zagreb  - Faculty of Geodesy",
       "Address": "KaciÄ‡eva Ulica 26 10000 Zagreb, Croatia",
       "Coordinates": "41.004167, 16.017222",
       "Contact": "Å½eljko BaciÄ‡",
@@ -296,7 +296,7 @@
       "Link": "https://www.aerospace-valley.com/"
     },
     {
-      "Name": "AFIGEO  “ Association Française pour l ™Information Geographique",
+      "Name": "AFIGEO  - Association Française pour l ™Information Geographique",
       "Address": "73, avenue de Paris 94165 Saint-Mande Cedex, France",
       "Coordinates": "48.823056, 2.432778",
       "Contact": "Pierre-Yves Vion",
@@ -336,7 +336,7 @@
       "Link": "https://sertit.unistra.fr/en/"
     },
     {
-      "Name": "IDGEO  “ Institut de Developpement de la Geomatique",
+      "Name": "IDGEO  - Institut de Developpement de la Geomatique",
       "Address": "42 AV du General de Croutte, 31100 Toulouse, France",
       "Coordinates": "43.573611, 1.438333",
       "Contact": "Renaud Lahaye",
@@ -408,7 +408,7 @@
       "Link": "https://www.iesf-na.fr/"
     },
     {
-      "Name": "AZO  “ Anwendungzsentrum GmbH Oberpfaffenhofen",
+      "Name": "AZO  - Anwendungzsentrum GmbH Oberpfaffenhofen",
       "Address": "Claude-Dornier-StraÃŸe 1\nBuilding 401 - 82234 WeÃŸling, Germany",
       "Coordinates": "48.082222, 11.441667",
       "Contact": "Rudolph Thorsten",
@@ -424,7 +424,7 @@
       "Link": "https://www.bavairia.net/"
     },
     {
-      "Name": "BBK  “ Bundesamt fÃ¼r Bevolkerungsschultz und Katastrophenhilfe",
+      "Name": "BBK  - Bundesamt fÃ¼r Bevolkerungsschultz und Katastrophenhilfe",
       "Address": "Provinzialstr. 93 Â· 53127 Bonn, Germany",
       "Coordinates": "50.736944, 7.092222",
       "Contact": "Fabian Low",
@@ -432,7 +432,7 @@
       "Link": "https://www.bbk.bund.de/DE/Home/home_node.html"
     },
     {
-      "Name": "BfG  “ Federal Institute of Hydrology",
+      "Name": "BfG  - Federal Institute of Hydrology",
       "Address": "Am Mainzer Tor 1, 56068 Koblenz, Germany",
       "Coordinates": "50.354444, 7.596389",
       "Contact": "Bjorn Baschek",
@@ -440,7 +440,7 @@
       "Link": "https://www.chr-khr.org/en/institute/federal-institute-hydrology"
     },
     {
-      "Name": "BGR  “ Federal Institute for Geosciences and Natural Resources",
+      "Name": "BGR  - Federal Institute for Geosciences and Natural Resources",
       "Address": "Geozentrum Hannover\nStilleweg 2 D-30655 Hannover, Germany",
       "Coordinates": "52.371667, 9.738889",
       "Contact": "Michaela Frei",
@@ -448,7 +448,7 @@
       "Link": "https://www.bgr.bund.de/EN/Home/homepage_node_en.html"
     },
     {
-      "Name": "BKA  “ Bundeskriminalamt",
+      "Name": "BKA  - Bundeskriminalamt",
       "Address": "Bundeskriminalamt 65173 Wiesbaden, Germany",
       "Coordinates": "50.079722, 8.245",
       "Contact": "Alexandra OberthÃ¼r",
@@ -456,7 +456,7 @@
       "Link": "https://www.bka.de/EN/Home/home_node.html"
     },
     {
-      "Name": "BKG  “ Federal Agency for Cartography and Geodesy",
+      "Name": "BKG  - Federal Agency for Cartography and Geodesy",
       "Address": "Richard-Strauss-Allee 11 60598 Frankfurt, Germany",
       "Coordinates": "50.119167, 8.675278",
       "Contact": "Michael Hovenbitzer",
@@ -464,7 +464,7 @@
       "Link": "https://bkg.bund.de/EN/Home/home.html"
     },
     {
-      "Name": "BSH  “ Bundesamt fÃ¼r Seeschifffarht und Hydrographie",
+      "Name": "BSH  - Bundesamt fÃ¼r Seeschifffarht und Hydrographie",
       "Address": "Bernhard-Nocht-Str. 78, 20359 Hamburg, Germany",
       "Coordinates": "53.555278, 9.993333",
       "Contact": "Iris Ehlert",
@@ -472,7 +472,7 @@
       "Link": "https://www.bsh.de/DE/Home/home_node.html"
     },
     {
-      "Name": "DDGI  “ Deutscher Dachverband fÃ¼r Geoinformation e.V.",
+      "Name": "DDGI  - Deutscher Dachverband fÃ¼r Geoinformation e.V.",
       "Address": "Steubenstr. 64 45138 Essen, Deutschland",
       "Coordinates": "51.453889, 7.013611",
       "Contact": "Andreas MÃ¼terthies",
@@ -480,7 +480,7 @@
       "Link": "https://ddgi.de/"
     },
     {
-      "Name": "DLR  “ German Aerospace Center",
+      "Name": "DLR  - German Aerospace Center",
       "Address": "Linder Hohe Â· 51147 Cologne, Germany",
       "Coordinates": "50.944167, 6.954167",
       "Contact": "Jens  Danzeglocke",
@@ -488,7 +488,7 @@
       "Link": "https://www.dlr.de/de"
     },
     {
-      "Name": "DWD  “ Deutscher Wetterdienst",
+      "Name": "DWD  - Deutscher Wetterdienst",
       "Address": "Frankfurter StraÃŸe 135, 63067 Offenbach, Germany",
       "Coordinates": "50.094444, 8.763056",
       "Contact": "Tobias Fuchs",
@@ -520,7 +520,7 @@
       "Link": "https://www.gdi.nrw/"
     },
     {
-      "Name": "Julius KÃ¼hn-Institut  “ Federal Research Centre for Cultivated Plants",
+      "Name": "Julius KÃ¼hn-Institut  - Federal Research Centre for Cultivated Plants",
       "Address": "Messeweg 11 12 Â· 38104 Braunschweig, Germany",
       "Coordinates": "52.263333, 10.515",
       "Contact": "Holger Lilienthal",
@@ -528,7 +528,7 @@
       "Link": "https://www.julius-kuehn.de/en/"
     },
     {
-      "Name": "LfULG  “ Saxon State Office for Environment, Agriculture and Geology",
+      "Name": "LfULG  - Saxon State Office for Environment, Agriculture and Geology",
       "Address": "SÃ¤chsisches Landesamt fÃ¼r Umwelt, Landwirtschaft und Geologie\nPostfach 54 01 37 - 01311 Dresden, Germany",
       "Coordinates": "51.048056, 13.738611",
       "Contact": "Christine Ziegler",
@@ -536,7 +536,7 @@
       "Link": "https://www.umwelt.sachsen.de/umwelt/klaps/state_agency_environment_agriculture_geology.htm"
     },
     {
-      "Name": "LLUR  “ Landesamt fÃ¼r Landwirtschaft, Umwelt und lÃ¤ndliche RÃ¤ume, Schleswig-Holstein",
+      "Name": "LLUR  - Landesamt fÃ¼r Landwirtschaft, Umwelt und lÃ¤ndliche RÃ¤ume, Schleswig-Holstein",
       "Address": "Hamburger Chaussee 25 Â· 24220 GroÃŸflintbek, Germany",
       "Coordinates": "53.720278, 10.131111",
       "Contact": "Tobias Roder",
@@ -544,7 +544,7 @@
       "Link": "https://www.schleswig-holstein.de/EN/home/home_node.html"
     },
     {
-      "Name": "UBA  “ German Environment Agency",
+      "Name": "UBA  - German Environment Agency",
       "Address": "Worlitzer Platz 1 - 06844 Dessau-RoÃŸlau, Germany",
       "Coordinates": "51.833333, 12.233333",
       "Contact": "Christian Schweitzer",
@@ -552,7 +552,7 @@
       "Link": "https://www.umweltbundesamt.de/en/the-uba"
     },
     {
-      "Name": "GR-CRN: Athena Research Centre  “ Corallia",
+      "Name": "GR-CRN: Athena Research Centre  - Corallia",
       "Address": "Kifissias Ave. 44\nMonumental Plaza-Building C - 15125 Maroussi - Athens, Greece",
       "Coordinates": "38.032222, 23.783056",
       "Contact": "Jorge-A. Sanchez-P.",
@@ -601,14 +601,14 @@
     },
     {
       "Name": "Bluefarm S.r.l",
-      "Address": "Via Torino 107 - 30172 Venezia Mestre (VE)  “ Italy",
+      "Address": "Via Torino 107 - 30172 Venezia Mestre (VE)  - Italy",
       "Coordinates": "45.489444, 12.243333",
       "Contact": "Edouard Royer",
       "Email": "edouard@bluefarmenvironment.com",
       "Link": "https://www.bluefarmenvironment.com/en/"
     },
     {
-      "Name": "ENEA  “ Italian National Agency for New Technologies, Energy and Sustainable Economic Development / Laboratory Technologies for the Dynamics of Structures and the Prevention of seismic and hydrogeol...",
+      "Name": "ENEA  - Italian National Agency for New Technologies, Energy and Sustainable Economic Development / Laboratory Technologies for the Dynamics of Structures and the Prevention of seismic and hydrogeol...",
       "Address": "Lungotevere Thaon di Revel, 76  - 00196 Rome, Italy",
       "Coordinates": "41.891389, 12.473889",
       "Contact": "Francesco Immordino",
@@ -624,7 +624,7 @@
       "Link": "https://www.fondazioneamaldi.it/en/"
     },
     {
-      "Name": "IEST  “ European Institute for Technological Development",
+      "Name": "IEST  - European Institute for Technological Development",
       "Address": "Via Fratelli Bandiera, 60 - Venezia, Italy",
       "Coordinates": "45.441944, 12.335556",
       "Contact": "Stefania de Zorzi",
@@ -648,7 +648,7 @@
       "Link": "https://www.isprambiente.gov.it/it"
     },
     {
-      "Name": "ITHACA  “ Information Technology for Humanitarian Assistance, Cooperation and Action",
+      "Name": "ITHACA  - Information Technology for Humanitarian Assistance, Cooperation and Action",
       "Address": "VIA PIER CARLO BOGGIO 61 - 10138 Torino (TO), Italy",
       "Coordinates": "45.065278, 7.683611",
       "Contact": "Vanina Fissore",
@@ -664,7 +664,7 @@
       "Link": "https://www.lazioconnect.it/en/home-2/"
     },
     {
-      "Name": "Politecnico di Milano  “ Osservatorio Space Economy",
+      "Name": "Politecnico di Milano  - Osservatorio Space Economy",
       "Address": "Via Lambruschini 4, Milano Italy",
       "Coordinates": "45.470556, 9.188333",
       "Contact": "Carlo Negri",
@@ -672,7 +672,7 @@
       "Link": "https://www.osservatori.net/it/ricerche/osservatori-attivi/space-economy"
     },
     {
-      "Name": "TeRN  “ Tecnologie per le Osservazioni della Terra ed i Rischi Naturali",
+      "Name": "TeRN  - Tecnologie per le Osservazioni della Terra ed i Rischi Naturali",
       "Address": "VIA ZONA INDUSTRIALE SNC - 70015 Noci (BA) Italy",
       "Coordinates": "40.803333, 16.883333",
       "Contact": "Nicola Pergola",
@@ -728,7 +728,7 @@
       "Link": ""
     },
     {
-      "Name": "Klaipeda University  “ Marine Research Institute",
+      "Name": "Klaipeda University  - Marine Research Institute",
       "Address": "H Manto 84 92294 Klaipeda, Lithuania",
       "Coordinates": "55.705278, 21.131944",
       "Contact": "Diana VaiciÅ«tÄ—",
@@ -776,7 +776,7 @@
       "Link": "https://www.nust.na/"
     },
     {
-      "Name": "NERSC  “ Nansen Environmental and Remote Sensing Center (in a coalition with MET Norway, Institute of Marine Research (IMR))",
+      "Name": "NERSC  - Nansen Environmental and Remote Sensing Center (in a coalition with MET Norway, Institute of Marine Research (IMR))",
       "Address": "Jahnebakken 3 - N-5007, Bergen, NORWAY",
       "Coordinates": "60.391111, 5.322222",
       "Contact": "Laurent Bertino",
@@ -784,7 +784,7 @@
       "Link": "https://nersc.no/en/the-nansen-center/"
     },
     {
-      "Name": "NINA  “ Norwegian Institute for Nature research",
+      "Name": "NINA  - Norwegian Institute for Nature research",
       "Address": "Torgarden, 7485 Trondheim, Norway",
       "Coordinates": "63.450278, 10.398056",
       "Contact": "Matteo De Stefano",
@@ -792,7 +792,7 @@
       "Link": "https://www.nina.no/english/Home"
     },
     {
-      "Name": "SIOS  “ Svalbard Integrated Artic Earth Observating System",
+      "Name": "SIOS  - Svalbard Integrated Artic Earth Observating System",
       "Address": "Vei 2311, 9170 Longyearbyen, Norway",
       "Coordinates": "78.221944, 15.653611",
       "Contact": "Ashley Morris",
@@ -840,7 +840,7 @@
       "Link": ""
     },
     {
-      "Name": "#NAME?",
+      "Name": "+ATLANTIC",
       "Address": "Rua do Instituto Industrial 16, 1200-225 Lisboa, Portugal",
       "Coordinates": "38.712222, -9.138889",
       "Contact": "Ana Oliveira",
@@ -853,7 +853,7 @@
       "Coordinates": "40.61920445982197, -8.667200575448117",
       "Contact": "Sergio da Silva",
       "Email": "pu2xxt@criar.space",
-      "Link": ""
+      "Link": "https://datasat.space/site/"
     },
     {
       "Name": "Direçao-Geral do Territorio",
@@ -872,7 +872,7 @@
       "Link": "https://www.forestwise.earth/"
     },
     {
-      "Name": "Portugal Space  “ Portuguese Space Agency",
+      "Name": "Portugal Space  - Portuguese Space Agency",
       "Address": "PalÃ¡cio das Laranjeiras, Estradas das Laranjeiras, 205 - RC Lisbon 1649-018, Portugal",
       "Coordinates": "38.711667, -9.148611",
       "Contact": "Joan Alabart",
@@ -896,7 +896,7 @@
       "Link": "https://insar.space/"
     },
     {
-      "Name": "SPACE-SI  “ Centre of Excellence for Space Sciences and Technologies",
+      "Name": "SPACE-SI  - Centre of Excellence for Space Sciences and Technologies",
       "Address": "AÅ¡kerceva 12, 1000 Ljubljana, Slovenia",
       "Coordinates": "46.051389, 14.502222",
       "Contact": "Tomaz Rodic",
@@ -920,7 +920,7 @@
       "Link": "https://aet.org.es/"
     },
     {
-      "Name": "CDTI  “ Centre for the Development of Industrial Technology (in a coalition with the Spanish Ministry of Environment (MITECO))",
+      "Name": "CDTI  - Centre for the Development of Industrial Technology (in a coalition with the Spanish Ministry of Environment (MITECO))",
       "Address": "C. del Cid, 4 Madrid, Spain",
       "Coordinates": "40.418889, -3.703611",
       "Contact": "Monica Lopez Lopez",
@@ -936,7 +936,7 @@
       "Link": "https://evenor-tech.com/"
     },
     {
-      "Name": "FEUGA  “ Fundacion Empresa Universidad Gallega",
+      "Name": "FEUGA  - Fundacion Empresa Universidad Gallega",
       "Address": "Campus Vida, RÃºa Lope Gomez de Marzoa, s/n, 15705, Santiago de Compostela (A Coruna), Spain",
       "Coordinates": "42.880278, -8.558333",
       "Contact": "Marcos Ãlvarez Cid",
@@ -968,7 +968,7 @@
       "Link": "https://www.inta.es/INTA/es/index.html"
     },
     {
-      "Name": "University of Valencia (UVEG)  “ Laboratory of Earth Observation (LEO)",
+      "Name": "University of Valencia (UVEG)  - Laboratory of Earth Observation (LEO)",
       "Address": "Blasco Ibanez Boulevard, 13, 46010, Valencia (Valencia) Spain",
       "Coordinates": "39.476944, -0.373611",
       "Contact": "Antonio  Ruiz",

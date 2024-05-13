@@ -109,7 +109,7 @@
   //Icon style
   const myIcon_Orange = L.icon({
     iconUrl: 'https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-Free-Download-PNG.png',
-    iconSize: [30,30],
+    iconSize: [25,25],
     });
 
   const myIcon_Red= L.icon({
@@ -119,15 +119,61 @@
 
   const myIcon_Academy =L.icon({
       iconUrl: 'Academy.svg',
-      iconSize: [30, 30], 
+      iconSize: [25,25], 
 
     });
 
     const myIcon_Black = L.icon({
     iconUrl: 'https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Clipart.png', // Adjust the URL if needed
-    iconSize: [30, 30], // Adjust width and height as required
+    iconSize: [25,25], // Adjust width and height as required
     });
 
+// Function to update marker size based on zoom level
+function updateMarkerSize() {
+    const currentZoom = map.getZoom();
+    // Adjust marker size based on zoom level
+    let newSize = [30 * (currentZoom / 5), 30 * (currentZoom / 5)]; // Adjust the multiplier as needed
+    // Define maximum size for the icons
+    const maxSize = [30, 30]; // Adjust as needed
+
+    // Limit the size of the icons to the maximum size
+    newSize = [
+        Math.min(newSize[0], maxSize[0]),
+        Math.min(newSize[1], maxSize[1])
+    ];
+
+    myIcon_Academy.options.iconSize = newSize;
+    myIcon_Orange.options.iconSize = newSize;
+    myIcon_Red.options.iconSize = newSize;
+
+    // Refresh markers to apply changes
+    map.eachLayer(function (layer) {
+        if (layer instanceof L.Marker) {
+            // Check if the marker's icon is myIcon_Academy
+            if (layer.options.icon.options.iconUrl === myIcon_Academy.options.iconUrl) {
+                layer.setIcon(L.icon({
+                    iconUrl: myIcon_Academy.options.iconUrl,
+                    iconSize: newSize,
+                }));
+            }
+            if (layer.options.icon.options.iconUrl === myIcon_Red.options.iconUrl) {layer.setIcon(L.icon({
+                    iconUrl: myIcon_Red.options.iconUrl,
+                    iconSize: newSize,
+                }));
+            }
+            if (layer.options.icon.options.iconUrl === myIcon_Orange.options.iconUrl) {layer.setIcon(L.icon({
+                    iconUrl: myIcon_Orange.options.iconUrl,
+                    iconSize: newSize,
+                }));
+            }
+            if (layer.options.icon.options.iconUrl === myIcon_Black.options.iconUrl) {layer.setIcon(L.icon({
+                    iconUrl: myIcon_Black.options.iconUrl,
+                    iconSize: newSize,
+                }));
+            }             
+        }
+    });
+}
 //Loop through the ACADEMIES and add markers to the cluster group
 for (let i = 0; i < academies.length; i++) {
   const academy = academies[i];
@@ -258,6 +304,12 @@ function updateMarkers() {
     }
 
   };
+
+// Listen to the zoomend event on the map
+map.on('zoomend', function () {
+    updateMarkerSize();
+});
+
 
 //SANITY CHECK 
 
