@@ -1,7 +1,7 @@
   const relays = [
     {
       "Name": "State Authority for Geospatial Information (ASIG)",
-      "Address": "Rruga Papa Gjon Pali IINd. 2, H. 3, 1010, TiranÃ«, Albania",
+      "Address": "Rruga Papa Gjon Pali IINd. 2, H. 3, 1010, Tirana«, Albania",
       "Coordinates": "41.327544, 19.818653",
       "Contact": "Dritan Prifti",
       "Email": "dritan.prifti@asig.gov.al",
@@ -107,7 +107,7 @@
       "Name": "Centro de Informaci on de Recursos Naturales (CIREN)",
       "Address": "Avenida Manuel Montt 1164, Providencia, Santiago, Chile",
       "Coordinates": "-33.423889, -70.626944",
-      "Contact": "Daniela GonzÃ¡lez Espinoza",
+      "Contact": "Daniela González Espinoza",
       "Email": "dgonzalez@ciren.cl",
       "Link": "https://www.ciren.cl/"
     },
@@ -185,7 +185,7 @@
     },
     {
       "Name": "IMO  - Millenium Institute of Oceanography [Member of the Copernicus Chile Relay Coalition]",
-      "Address": "Edificio de OceanografÃ­a, Piso 3. Campus Universidad de Concepcion Concepcion, Chile",
+      "Address": "Edificio de Oceanografí­a, Piso 3. Campus Universidad de Concepcion Concepcion, Chile",
       "Coordinates": "-36.812222, -73.047222",
       "Contact": "Florencio Utreras",
       "Email": "futreras@dim.uchile.cl",
@@ -200,7 +200,7 @@
       "Link": ""
     },
     {
-      "Name": "MOP  - Ministerio de Obras PÃºblicas [Member of the Copernicus Chile Relay Coalition]",
+      "Name": "MOP  - Ministerio de Obras Publicas [Member of the Copernicus Chile Relay Coalition]",
       "Address": "Morande 59, Santiago de Chile, Chile",
       "Coordinates": "-33.445278, -70.670556",
       "Contact": "Florencio Utreras",
@@ -235,7 +235,7 @@
       "Name": "Czech Hydrometeorological Institute",
       "Address": "Kroftova 2578/43 61600 Brno, Czech Republic",
       "Coordinates": "49.193611, 16.606944",
-      "Contact": "Martina  SÃ¡lovÃ¡",
+      "Contact": "Martina  Sálová",
       "Email": "martina.salova@chmi.cz",
       "Link": "https://www.chmi.cz/?l=en"
     },
@@ -248,8 +248,8 @@
       "Link": "https://eng.sdfi.dk/Forside (dmi.dk)"
     },
     {
-      "Name": "SecretarÃ­a General del Sistema de la Integracion Centroamericana (SG-SICA)",
-      "Address": "Final Bulevar CancillerÃ­a,\nDistrito El Espino, Ciudad Merliot,\nAntiguo CuscatlÃ¡n, La Libertad, El Salvador",
+      "Name": "Secretarí­a General del Sistema de la Integracion Centroamericana (SG-SICA)",
+      "Address": "Final Bulevar Cancillería,\nDistrito El Espino, Ciudad Merliot,\nAntiguo Cuscatlán, La Libertad, El Salvador",
       "Coordinates": "13.695278, -89.230833",
       "Contact": "Jorge Cabrera",
       "Email": "jcabrera@sica.int",
@@ -379,7 +379,7 @@
       "Name": "SAFE Cluster (PEGASE Association)",
       "Address": "AV Louis Philibert Aix-en-Provence, France",
       "Coordinates": "43.529444, 5.447222",
-      "Contact": "LoÃ¯c Chanvillard",
+      "Contact": "Loïc Chanvillard",
       "Email": "loic.chanvillard@safecluster.com",
       "Link": "https://www.safecluster.com/"
     },
@@ -401,7 +401,7 @@
     },
     {
       "Name": "Union Regionale des Ingenieurs et Scientifiques en Aquitaine",
-      "Address": "99 r JudaÃ¯que, 33000 Bordeaux, France",
+      "Address": "99 r Judaïque, 33000 Bordeaux, France",
       "Coordinates": "44.837222, -0.5775",
       "Contact": "Philippe Delavier",
       "Email": "president@urisa.fr",
@@ -424,7 +424,7 @@
       "Link": "https://www.bavairia.net/"
     },
     {
-      "Name": "BBK  - Bundesamt fÃ¼r Bevolkerungsschultz und Katastrophenhilfe",
+      "Name": "BBK  - Bundesamt für Bevolkerungsschultz und Katastrophenhilfe",
       "Address": "Provinzialstr. 93 Â· 53127 Bonn, Germany",
       "Coordinates": "50.736944, 7.092222",
       "Contact": "Fabian Low",
@@ -451,7 +451,7 @@
       "Name": "BKA  - Bundeskriminalamt",
       "Address": "Bundeskriminalamt 65173 Wiesbaden, Germany",
       "Coordinates": "50.079722, 8.245",
-      "Contact": "Alexandra OberthÃ¼r",
+      "Contact": "Alexandra Oberthür",
       "Email": "Alexandra.oberthuer@bka.bund.de",
       "Link": "https://www.bka.de/EN/Home/home_node.html"
     },
@@ -464,7 +464,7 @@
       "Link": "https://bkg.bund.de/EN/Home/home.html"
     },
     {
-      "Name": "BSH  - Bundesamt fÃ¼r Seeschifffarht und Hydrographie",
+      "Name": "BSH  - Bundesamt für Seeschifffarht und Hydrographie",
       "Address": "Bernhard-Nocht-Str. 78, 20359 Hamburg, Germany",
       "Coordinates": "53.555278, 9.993333",
       "Contact": "Iris Ehlert",
@@ -472,10 +472,10 @@
       "Link": "https://www.bsh.de/DE/Home/home_node.html"
     },
     {
-      "Name": "DDGI  - Deutscher Dachverband fÃ¼r Geoinformation e.V.",
+      "Name": "DDGI  - Deutscher Dachverband für Geoinformation e.V.",
       "Address": "Steubenstr. 64 45138 Essen, Deutschland",
       "Coordinates": "51.453889, 7.013611",
-      "Contact": "Andreas MÃ¼terthies",
+      "Contact": "Andreas Müterthies",
       "Email": "Andreas.mueterthies@eftas.com",
       "Link": "https://ddgi.de/"
     },
@@ -497,7 +497,7 @@
     },
     {
       "Name": "EurA AG",
-      "Address": "KrÃ¤mpferstr. 2 Â· 99084 Erfurt, Germany",
+      "Address": "Krämpferstr. 2 Â· 99084 Erfurt, Germany",
       "Coordinates": "50.975556, 10.981667",
       "Contact": "Johannes M. Schmidt",
       "Email": "jm.schmidt@eura-ag.de",
@@ -513,14 +513,14 @@
     },
     {
       "Name": "GeolT Round Table NRW",
-      "Address": "Rothenburg, 48143 MÃ¼nster, Germany",
+      "Address": "Rothenburg, 48143 Münster, Germany",
       "Coordinates": "51.962222, 7.625",
       "Contact": "Albert Remke",
       "Email": "a.remke@52north.org",
       "Link": "https://www.gdi.nrw/"
     },
     {
-      "Name": "Julius KÃ¼hn-Institut  - Federal Research Centre for Cultivated Plants",
+      "Name": "Julius Kühn-Institut  - Federal Research Centre for Cultivated Plants",
       "Address": "Messeweg 11 12 Â· 38104 Braunschweig, Germany",
       "Coordinates": "52.263333, 10.515",
       "Contact": "Holger Lilienthal",
@@ -529,14 +529,14 @@
     },
     {
       "Name": "LfULG  - Saxon State Office for Environment, Agriculture and Geology",
-      "Address": "SÃ¤chsisches Landesamt fÃ¼r Umwelt, Landwirtschaft und Geologie\nPostfach 54 01 37 - 01311 Dresden, Germany",
+      "Address": "Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie\nPostfach 54 01 37 - 01311 Dresden, Germany",
       "Coordinates": "51.048056, 13.738611",
       "Contact": "Christine Ziegler",
       "Email": "christine.ziegler@smul.sachsen.de",
       "Link": "https://www.umwelt.sachsen.de/umwelt/klaps/state_agency_environment_agriculture_geology.htm"
     },
     {
-      "Name": "LLUR  - Landesamt fÃ¼r Landwirtschaft, Umwelt und lÃ¤ndliche RÃ¤ume, Schleswig-Holstein",
+      "Name": "LLUR  - Landesamt für Landwirtschaft, Umwelt und ländliche Räume, Schleswig-Holstein",
       "Address": "Hamburger Chaussee 25 Â· 24220 GroÃŸflintbek, Germany",
       "Coordinates": "53.720278, 10.131111",
       "Contact": "Tobias Roder",
@@ -568,16 +568,16 @@
       "Link": "https://www.noa.gr/"
     },
     {
-      "Name": "Eotvos LorÃ¡nd University",
+      "Name": "Eötvös Loránd University",
       "Address": "Budapest Egyetem Ter 1-3 1053, Hungary",
       "Coordinates": "47.496389, 19.055",
-      "Contact": "AndrÃ¡s Jung",
+      "Contact": "András Jung",
       "Email": "jung@inf.elte.hu",
       "Link": "https://www.elte.hu/en/"
     },
     {
-      "Name": "MATE Magyar AgrÃ¡r- es Ã‰lettudomÃ¡nyi Egyetem  (Hungarian University of Agriculture and Life Sciences)",
-      "Address": "2100 GodollÅ‘, PÃ¡ter KÃ¡roly utca 1., Hungary",
+      "Name": "MATE Magyar Agrár- es ‰lettudományi Egyetem  (Hungarian University of Agriculture and Life Sciences)",
+      "Address": "2100 GodollÅ‘, Páter Károly utca 1., Hungary",
       "Coordinates": "47.598333, 19.375278",
       "Contact": "Zoltan Vekerdy",
       "Email": "z.vekerdy@utwente.nl",
@@ -827,15 +827,15 @@
       "Name": "AgroInsider",
       "Address": "RUA CIRCULAR NORTE, EDIFÃCIO NERE Ã‰VORA 7005-841, Portugal",
       "Coordinates": "38.573889, -7.908333",
-      "Contact": "PatrÃ­cia Lourenço",
+      "Contact": "Patrí­cia Lourenço",
       "Email": "patricia@agroinsider.com",
       "Link": "https://agroinsider.com/home"
     },
     {
       "Name": "Associaçao RAEGE Açores",
-      "Address": "ESTRADA DOS PIQUINHOS SÃƒO PEDRO 9580-324, Portugal",
+      "Address": "ESTRADA DOS PIQUINHOS SíƒO PEDRO 9580-324, Portugal",
       "Coordinates": "36.98584385263342, -25.12604004448896",
-      "Contact": "LuÃ­sa Magalhaes",
+      "Contact": "Luí­sa Magalhaes",
       "Email": "Luisa.VM.Moniz@azores.gov.pt",
       "Link": ""
     },
@@ -865,7 +865,7 @@
     },
     {
       "Name": "ForestWISE",
-      "Address": "QUINTA DE PRADOS, UNIVERSIDADE DE TRÃS-OS-MONTES E ALTO DOURO VILA REAL 5000-103, Portugal",
+      "Address": "QUINTA DE PRADOS, UNIVERSIDADE DE TRíS-OS-MONTES E ALTO DOURO VILA REAL 5000-103, Portugal",
       "Coordinates": "41.263333, -7.748333",
       "Contact": "Joao Torres",
       "Email": "joao.torres@forestwise.pt",
@@ -873,7 +873,7 @@
     },
     {
       "Name": "Portugal Space  - Portuguese Space Agency",
-      "Address": "PalÃ¡cio das Laranjeiras, Estradas das Laranjeiras, 205 - RC Lisbon 1649-018, Portugal",
+      "Address": "Palácio das Laranjeiras, Estradas das Laranjeiras, 205 - RC Lisbon 1649-018, Portugal",
       "Coordinates": "38.711667, -9.148611",
       "Contact": "Joan Alabart",
       "Email": "joan.alabart@ptspace.pt",
@@ -913,7 +913,7 @@
     },
     {
       "Name": "Asociacion Espanola de Teledeteccion (AET)",
-      "Address": "C/ CatedrÃ¡tico Jose Beltran nÂº 2 46980 Paterna (Valencia) SPAIN",
+      "Address": "C/ Catedrático Jose Beltran nÂº 2 46980 Paterna (Valencia) SPAIN",
       "Coordinates": "39.483889, -0.408333",
       "Contact": "Elia Quiros Rosado",
       "Email": "equiros@unex.es",
@@ -931,15 +931,15 @@
       "Name": "Evenor-Tech S.L.U.",
       "Address": "AVENIDA SAN FRANCISCO JAVIER, 24 - 6 LOC 15 A, 41018, Sevilla, Spain",
       "Coordinates": "37.393056, -5.982778",
-      "Contact": "Francisco Jose Blanco VelÃ¡zquez",
+      "Contact": "Francisco Jose Blanco Velázquez",
       "Email": "fj.blanco@evenor-tech.com",
       "Link": "https://evenor-tech.com/"
     },
     {
       "Name": "FEUGA  - Fundacion Empresa Universidad Gallega",
-      "Address": "Campus Vida, RÃºa Lope Gomez de Marzoa, s/n, 15705, Santiago de Compostela (A Coruna), Spain",
+      "Address": "Campus Vida, Rua Lope Gomez de Marzoa, s/n, 15705, Santiago de Compostela (A Coruna), Spain",
       "Coordinates": "42.880278, -8.558333",
-      "Contact": "Marcos Ãlvarez Cid",
+      "Contact": "Marcos Alvarez Cid",
       "Email": "mxalvarez@feuga.es",
       "Link": "https://www.feuga.es/"
     },
@@ -985,15 +985,15 @@
     },
     {
       "Name": "Spanish National Geographic Institute (IGN)",
-      "Address": "Calle del Gral. IbÃ¡nez de Ibero, 3 Madrid, Spain",
+      "Address": "Calle del Gral. Ibánez de Ibero, 3 Madrid, Spain",
       "Coordinates": "40.425833, -3.683333",
-      "Contact": "Bruno  Perez MartÃ­n",
+      "Contact": "Bruno  Perez Martí­n",
       "Email": "bpmartin@mitma.es",
       "Link": "https://www.ign.es/csw-inspire/srv/eng/main.home"
     },
     {
       "Name": "TECNALIA Research & Innovation",
-      "Address": "Mandasko Dukearen pasealekua\n20012 Donostia/San SebastiÃ¡n\nSpain",
+      "Address": "Mandasko Dukearen pasealekua\n20012 Donostia/San Sebastián\nSpain",
       "Coordinates": "43.320278, -1.985556",
       "Contact": "Jorge  Paz",
       "Email": "jorge.paz@tecnalia.com",
@@ -1001,7 +1001,7 @@
     },
     {
       "Name": "Swedish National Space Agency",
-      "Address": "HemvÃ¤rnsgatan 9 - 17154 Solna, Sweden",
+      "Address": "Hemvärnsgatan 9 - 17154 Solna, Sweden",
       "Coordinates": "59.362222, 18.062222",
       "Contact": "Bjorn Loven",
       "Email": "bjorn.loven@snsa.se",
