@@ -33,7 +33,7 @@ const academies = [
   },
   {
     "Name": "University of Natural Resources and Applied Life Sciences (BOKU)",
-    "Address": "Gregor-Mendel StraÃŸe 33 Â· 1180 Vienna, Austria",
+    "Address": "Gregor-Mendel Straße 33 Â· 1180 Vienna, Austria",
     "Coordinates": "48.201944, 16.383333",
     "Contact": "Clement Atzberger",
     "Email": "clement.atzberger@boku.ac.at",
@@ -395,7 +395,7 @@ const academies = [
     "Name": "University of Turku",
     "Address": "LemminkÃ¤isenkatu 14-18 Turku, Finland",
     "Coordinates": "60.491389, 22.260278",
-    "Contact": "Niina KÃ¤yhkÃ¶",
+    "Contact": "Niina KÃ¤yhkö",
     "Email": "niina.kayhko@utu.fi",
     "Link": "https://www.utu.fi/en"
   },
@@ -553,7 +553,7 @@ const academies = [
   },
   {
     "Name": "Afrosurface UG",
-    "Address": "EddelbÃ¼ttel StraÃŸe 25, Hamburg Germany",
+    "Address": "EddelbÃ¼ttel Straße 25, Hamburg Germany",
     "Coordinates": "53.599167, 9.990278",
     "Contact": "Olalekan Adebayo",
     "Email": "Ola.adebayo@afrosurv.com",
@@ -563,13 +563,13 @@ const academies = [
     "Name": "University of Applied Sciences Stuttgart - Faculty of Geomatics, Computer Science and Mathematics, Department of Geomatics",
     "Address": "Schellingstr. 24 - Stuttgart Germany",
     "Coordinates": "48.785278, 9.180833",
-    "Contact": "Dietrich SchrÃ¶der",
+    "Contact": "Dietrich Schröder",
     "Email": "dietrich.schroeder@hft-stuttgart.de",
     "Link": "https://www.hft-stuttgart.com/geomatics/master-photogrammetry-and-geoinformatics"
   },
   {
     "Name": "Earth Observation Center (EOC), DLR",
-    "Address": "MÃ¼nchener Str. 20 Â· 82234 WeÃŸling, Germany",
+    "Address": "MÃ¼nchener Str. 20 Â· 82234 Weßling, Germany",
     "Coordinates": "48.103333, 11.383333",
     "Contact": "Doris Klein",
     "Email": "doris.klein@dlr.de",
@@ -617,7 +617,7 @@ const academies = [
   },
   {
     "Name": "Ruhr University Bochum - Geomatics Research Group (GRP), Institute of Geography",
-    "Address": "UniversitÃ¤tsstraÃŸe 150 - 44801 Bochum, Germany",
+    "Address": "UniversitÃ¤tsstraße 150 - 44801 Bochum, Germany",
     "Coordinates": "51.444167, 7.315556",
     "Contact": "Andreas Rienow",
     "Email": "andreas.rienow@rub.de",
@@ -841,7 +841,7 @@ const academies = [
   },
   {
     "Name": "Geo-Sentinel Research, Service and Consulting Ltd",
-    "Address": "Kacsoh Pongrac utca 13, H-2132 GÃ¶d, Hungary",
+    "Address": "Kacsoh Pongrac utca 13, H-2132 Göd, Hungary",
     "Coordinates": "47.605556, 19.113611",
     "Contact": "Sqndor Frey",
     "Email": "frey.sandor@geo-sentinel.eu",
@@ -1579,7 +1579,7 @@ const academies = [
     "Name": "Plant Science and Biodiversity Center, Slovak Academy of Sciences",
     "Address": "Dubravska cesta 9, 845 23 Bratislava 4, Slovak Republic",
     "Coordinates": "48.143333, 17.113056",
-    "Contact": "Maria Å ibÃ­kova",
+    "Contact": "Maria Šibíkova",
     "Email": "maria.sibikova@savba.sk",
     "Link": "https://www.sav.sk/?lang=en&doc=ins-org-ins&institute_no=211"
   },
@@ -1739,7 +1739,7 @@ const academies = [
     "Name": "Universidad de Malaga - European Topic Centre",
     "Address": "Edificio de Investigacion Ada Byron, Arquitecto Francisco Penalosa, 18, Campanillas, 29010 Malaga, Spain",
     "Coordinates": "36.723333, -4.453056",
-    "Contact": "Christoph SchrÃ¶der",
+    "Contact": "Christoph Schröder",
     "Email": "schroeder.c@gmail.com",
     "Link": "https://www.etc.uma.es/"
   },
@@ -1801,7 +1801,7 @@ const academies = [
   },
   {
     "Name": "Lund University - Department of Physical Geography and Ecosystem Science",
-    "Address": "SÃ¶lvegatan 12, 223 62, Lund, Sweden",
+    "Address": "Sölvegatan 12, 223 62, Lund, Sweden",
     "Coordinates": "55.703333, 13.193056",
     "Contact": "Zheng Duan",
     "Email": "zheng.duan@nateko.lu.se",
