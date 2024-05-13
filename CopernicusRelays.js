@@ -576,7 +576,7 @@
       "Link": "https://www.elte.hu/en/"
     },
     {
-      "Name": "MATE Magyar Agrár- es ‰lettudományi Egyetem  (Hungarian University of Agriculture and Life Sciences)",
+      "Name": "MATE Magyar Agrár- es Élettudományi Egyetem  (Hungarian University of Agriculture and Life Sciences)",
       "Address": "2100 GodollÅ‘, Páter Károly utca 1., Hungary",
       "Coordinates": "47.598333, 19.375278",
       "Contact": "Zoltan Vekerdy",
