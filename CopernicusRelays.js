@@ -368,7 +368,7 @@
       "Link": "https://www.pixstart.io/"
     },
     {
-      "Name": "PÃ´le Mer Bretagne Atlantique (MORESPACE Consortium)",
+      "Name": "Pole Mer Bretagne Atlantique (MORESPACE Consortium)",
       "Address": "525 AV Alexis de Rochon, 29280 Plouzane, France",
       "Coordinates": "48.35851103198023, -4.56329450243905",
       "Contact": "Phil Monbet",
