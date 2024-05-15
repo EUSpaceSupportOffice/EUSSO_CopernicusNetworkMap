@@ -817,9 +817,9 @@
     },
     {
       "Name": "Creotech Instruments S.A. (Leader of the consortium), Blue Dot Solutions sp. z o.o and Space Research Centre PAS",
-      "Address": "ul. Jana PawÅ‚a II 66, 05-500 Piaseczno, Poland",
+      "Address": "ul. Jana Pawla II 66, 05-500 Piaseczno, Poland",
       "Coordinates": "52.070278, 20.985833",
-      "Contact": "Krzysztof MysÅ‚akowski",
+      "Contact": "Krzysztof Myslakowski",
       "Email": "krzysztof.myslakowski@creotech.pl",
       "Link": "https://creotech.pl/"
     },
