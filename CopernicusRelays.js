@@ -698,7 +698,7 @@
     {
       "Name": "Institute for Environmental Solutions (IES)",
       "Address": "Lidlauks, Priekulu parish - Priekulu County, LV-4102 Latvia",
-      "Coordinates": "57.321249962345995, 25.321422343831497",
+      "Coordinates": "57.331249962345995, 25.321422343831497",
       "Contact": "Dainis Jakovels",
       "Email": "dainis.jakovels@vri.lv",
       "Link": "https://www.vri.lv/en/home-2/"
