@@ -1443,7 +1443,7 @@ const academies = [
     "Name": "Universidad Nacional de Asuncion - Facultad Politecnica",
     "Address": "Campus de San Lorenzo, 910 San Lorenzo, Paraguay",
     "Coordinates": "-25.323333, -57.533056",
-    "Contact": "Rossana Villalba Caceresâ€Ž",
+    "Contact": "Rossana Villalba Cáceres‎",
     "Email": "rvillalba@pol.una.py",
     "Link": "https://www.pol.una.py/"
   },
