@@ -88,7 +88,7 @@ const academies = [
     "Link": "https://www.bhsbes.edu.bz/"
   },
   {
-    "Name": "Fondo para el desarrollo de los Pueblos IndÃ­genas de America Latina y el Caribe (FILAC)\n[Member of CSUCA consortium]",
+    "Name": "Fondo para el desarrollo de los Pueblos Indí­genas de America Latina y el Caribe (FILAC)\n[Member of CSUCA consortium]",
     "Address": "Av. 20 de octubre 2287 - Esq. Rosendo Gutierrez, La Paz, Bolivia",
     "Coordinates": "-16.499444, -68.131389",
     "Contact": "Filac",
@@ -107,7 +107,7 @@ const academies = [
     "Name": "University of Banja Luka - Faculty of Architecture, Civil Engineering and Geodesy",
     "Address": "Bulevar vojvode Stepe StepanoviÄ‡a 77/3, Banja Luka 78000, Bosna i Hercegovina",
     "Coordinates": "44.773333, 17.188889",
-    "Contact": "Gordana JakovljeviÄ‡",
+    "Contact": "Gordana Jakovljević",
     "Email": "gordana.jakovljevic@aggf.unibl.org",
     "Link": "https://aggf.unibl.org/en"
   },
@@ -160,7 +160,7 @@ const academies = [
     "Link": "https://www.aca.cl/"
   },
   {
-    "Name": "Corporacion Red Nacional Academica de TecnologÃ­a Avanzada-Renata",
+    "Name": "Corporacion Red Nacional Academica de Tecnologi­a Avanzada-Renata",
     "Address": "Calle 73 7 31 P 2 To B, Bogota, Bogota",
     "Coordinates": "4.663889, -74.082222",
     "Contact": "Monica Maria Lopez Sanchez",
@@ -171,7 +171,7 @@ const academies = [
     "Name": "Universidad de la Gran Colombia",
     "Address": "CARRERA 6 12 B 40, BOGOTA, Distrito Capital de Bogota, Colombia",
     "Coordinates": "4.604167, -74.083333",
-    "Contact": "Luis Miguel  MejÃ­a Giraldo",
+    "Contact": "Luis Miguel  Mejía Giraldo",
     "Email": "mejiagluismiguel@miugca.edu.co",
     "Link": "https://www.ugc.edu.co/"
   },
@@ -216,7 +216,7 @@ const academies = [
     "Link": "https://cfia.or.cr/"
   },
   {
-    "Name": "Universidad de Costa Rica - Escuela de GeografÃ­a\n[Member of CSUCA consortium]",
+    "Name": "Universidad de Costa Rica - Escuela de Geografi­a\n[Member of CSUCA consortium]",
     "Address": "Facultad de Ciencias Sociales, Segundo piso, torre D y E, Montes de Oca, 2060 San Jose. Costa Rica",
     "Coordinates": "9.941389, -84.133333",
     "Contact": "Melvin Lizano Araya",
@@ -352,10 +352,10 @@ const academies = [
     "Link": "https://www.univo.edu.sv/"
   },
   {
-    "Name": "Consejo IndÃ­gena de Centro America (CICA)\n[Member of CSUCA consortium]",
+    "Name": "Consejo Indigena de Centro America (CICA)\n[Member of CSUCA consortium]",
     "Address": "Col. Flor Blanca, Calle El Progreso, Pasaje Las Rosas No. 7. San Salvador, El Salvador",
     "Coordinates": "13.691389, -88.820278",
-    "Contact": "Jesus Amadeo  MartÃ­nez Guzman",
+    "Contact": "Jesus Amadeo  Martinez Guzman",
     "Email": "amadeomg@gmail.com",
     "Link": "https://consejocica.org/"
   },
@@ -395,7 +395,7 @@ const academies = [
     "Name": "University of Turku",
     "Address": "LemminkÃ¤isenkatu 14-18 Turku, Finland",
     "Coordinates": "60.491389, 22.260278",
-    "Contact": "Niina KÃ¤yhkö",
+    "Contact": "Niina Käyhkö",
     "Email": "niina.kayhko@utu.fi",
     "Link": "https://www.utu.fi/en"
   },
@@ -520,7 +520,7 @@ const academies = [
     "Link": "https://www.minesparis.psl.eu/en/home/"
   },
   {
-    "Name": "Universite CÃ´te d'Azur",
+    "Name": "Universite Cote d'Azur",
     "Address": "28 Avenue de ValroseÂ 06103 Nice, France",
     "Coordinates": "43.733333, 7.266667",
     "Contact": "Aurelie Delort",
@@ -776,7 +776,7 @@ const academies = [
     "Link": "https://www.uth.gr/en"
   },
   {
-    "Name": "SecretarÃ­a General del Consejo Superior Universitario Centroamericano (SG-CSUCA)\n[Coordinator of CSUCA consortium]",
+    "Name": "Secretari­a General del Consejo Superior Universitario Centroamericano (SG-CSUCA)\n[Coordinator of CSUCA consortium]",
     "Address": "Avenida las Americas 1-03, Z.14 Interior Club Deportivo Los Arcos - Ciudad de Guatemala, Guatemala",
     "Coordinates": "14.622500, -90.522222",
     "Contact": "Carlos Guillermo Alvarado Cerezo",
@@ -784,7 +784,7 @@ const academies = [
     "Link": "http://directorio.sela.org/listado-de-organismos/csuca.aspx"
   },
   {
-    "Name": "Comision para el Desarrollo CientÃ­fico y Tecnologico de Centroamerica y Panama (CT-CAP) - SecretarÃ­a Nacional de Ciencia y TecnologÃ­a de la Republica de Guatemala (Senacyt)\n[Member of CSUCA consor...",
+    "Name": "Comision para el Desarrollo Cienti­fico y Tecnologico de Centroamerica y Panama (CT-CAP) - Secretaria Nacional de Ciencia y Tecnologia de la Republica de Guatemala (Senacyt)\n[Member of CSUCA consor...",
     "Address": "3av. 13-28 Zona 1 - Guatemala City, Guatemala",
     "Coordinates": "14.638889, -90.513889",
     "Contact": "Ana Judith Chan Orantes",
@@ -800,7 +800,7 @@ const academies = [
     "Link": "https://guatemala.gob.gt/ministerio-de-ambiente-y-recursos-naturales/"
   },
   {
-    "Name": "Universidad Rafael LandÃ­var de Guatemala - Instituto de investigacion y proyeccion sobre ciencia y tecnologÃ­a (INCYT)\n[Member of CSUCA consortium]",
+    "Name": "Universidad Rafael Landivar de Guatemala - Instituto de investigacion y proyeccion sobre ciencia y tecnologi­a (INCYT)\n[Member of CSUCA consortium]",
     "Address": "Vista Hermosa III, zona 16 Guatemala",
     "Coordinates": "14.596788109513513, -90.48618687388463",
     "Contact": "Edson Tonino  Hernandez Mazariegos",
@@ -808,7 +808,7 @@ const academies = [
     "Link": "https://principal.url.edu.gt/"
   },
   {
-    "Name": "Universidad Rafael LandÃ­var de Guatemala, Unidad de informacion estrategica para la investigacion y proyeccion (UIE)\n[Member of CSUCA consortium]",
+    "Name": "Universidad Rafael Landi­var de Guatemala, Unidad de informacion estrategica para la investigacion y proyeccion (UIE)\n[Member of CSUCA consortium]",
     "Address": "Vista Hermosa III, zona 16 Guatemala",
     "Coordinates": "14.594568938238648, -90.48348420189956",
     "Contact": "Carlos Guillermo Alvarado Cerezo",
@@ -1635,7 +1635,7 @@ const academies = [
     "Name": "GRUMETS - Methods and Applications in Remote Sensing and Geographic Information Systems Research Group",
     "Address": "Campus UAB, Edifici B. - 08193 Bellaterra, Catalonia, Spain",
     "Coordinates": "41.50166476441625, 2.10962195562096",
-    "Contact": "LluÃ­s   Pesquer",
+    "Contact": "Llui­s   Pesquer",
     "Email": "l.pesquer@creaf.uab.cat",
     "Link": "https://grumets.uab.cat/index_eng.htm"
   },
@@ -1729,7 +1729,7 @@ const academies = [
   },
   {
     "Name": "Universidad de Las Palmas de Gran Canaria - Instituto Universitario SIANI",
-    "Address": "Edificio Central del Parque CientÃ­fico y Tecnologico, Campus Universitario de Tafira - 35017 Las Palmas de Gran Canaria, Espana",
+    "Address": "Edificio Central del Parque Cienti­fico y Tecnologico, Campus Universitario de Tafira - 35017 Las Palmas de Gran Canaria, Espana",
     "Coordinates": "28.103333, -15.413056",
     "Contact": "Antonio Falcon Martel",
     "Email": "antonio.falcon@ulpgc.es",
@@ -1752,7 +1752,7 @@ const academies = [
     "Link": "https://www.upm.es/"
   },
   {
-    "Name": "Universidad de Oviedo - Escuela de IngenierÃ­a de Minas, EnergÃ­a y Materiales",
+    "Name": "Universidad de Oviedo - Escuela de Ingenieri­a de Minas, Energia y Materiales",
     "Address": "Calle de Asturias 13, 33004, Oviedo (Asturias), Spain",
     "Coordinates": "43.363333, -5.843056",
     "Contact": "Pablo Cienfuegos",
@@ -1784,7 +1784,7 @@ const academies = [
     "Link": "https://uhu.es/"
   },
   {
-    "Name": "Universitat Politecnica de Valencia - Escuela Tecnica Superior IngenierÃ­a Geodesica, Cartografica y Topografica",
+    "Name": "Universitat Politecnica de Valencia - Escuela Tecnica Superior Ingenieria Geodesica, Cartografica y Topografica",
     "Address": "ETSI Geodesica, Cartogr. y Top., Camino de Vera, s/n, Edificio 7 i, 46022, Valencia, Spain",
     "Coordinates": "39.48113590985179, -0.3370375316009184",
     "Contact": "Jorge Recio",
