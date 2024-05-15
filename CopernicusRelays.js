@@ -219,7 +219,7 @@
       "Name": "University of Zagreb  - Faculty of Geodesy",
       "Address": "KaciÄ‡eva Ulica 26 10000 Zagreb, Croatia",
       "Coordinates": "41.004167, 16.017222",
-      "Contact": "Å½eljko BaciÄ‡",
+      "Contact": "Željko Bačić",
       "Email": "zbacic@geof.hr",
       "Link": "https://www.geof.unizg.hr/en/"
     },
@@ -731,7 +731,7 @@
       "Name": "Klaipeda University  - Marine Research Institute",
       "Address": "H Manto 84 92294 Klaipeda, Lithuania",
       "Coordinates": "55.705278, 21.131944",
-      "Contact": "Diana VaiciÅ«tÄ—",
+      "Contact": "Diana Vaiciute",
       "Email": "diana.vaiciute@jmtc.ku.lt",
       "Link": "https://jti.ku.lt/en/"
     },
