@@ -272,15 +272,19 @@ function updateMarkers() {
       const coordinates = academy.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
 
       if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
-        const popupContentAcademies = `
+        let popupContentAcademies = `
         <strong>${academy.Name}</strong><br>
         Primary contact: ${academy.Contact}<br>
-        Email: <a href="mailto:${academy.Email}">${academy.Email}</a><br>
-        `;
-        const marker = L.marker(coordinates, { icon: myIcon_Academy });
-        marker.bindPopup(popupContentAcademies);
-        marker.addTo(map);
-      }
+        Email: <a href="mailto:${academy.Email}">${academy.Email}</a><br>`;
+      //Add link only if academy.Link has a value
+      if (academy.Link) {
+          popupContentAcademies += ` <a href="${academy.Link}" target="_blank">More info</a>`;
+        }
+        
+    const marker = L.marker(coordinates, { icon: myIcon_Academy });
+    marker.bindPopup(popupContentAcademies);
+    marker.addTo(map);
+    }
       }
     }
 
@@ -291,15 +295,19 @@ function updateMarkers() {
         const coordinates = relay.Coordinates.split(',').map(coord => parseFloat(coord.trim()));
 
         if (!isNaN(coordinates[0]) && !isNaN(coordinates[1])) {
-          const popupContent = `
+          let popupContent = `
             <strong>${relay.Name}</strong><br>
             Primary contact: ${relay.Contact}<br>
-            Email: <a href="mailto:${relay.Email}">${relay.Email}</a><br>
-          `;
-          const marker = L.marker(coordinates, { icon: myIcon_Orange });
-          marker.bindPopup(popupContent);
-          marker.addTo(map);
-        }
+            Email: <a href="mailto:${relay.Email}">${relay.Email}</a><br>`;
+             //Add link only if academy.Link has a value
+            if (relay.Link) {
+              popupContent += ` <a href="${relay.Link}" target="_blank">More info</a>`;
+              }
+          
+      const marker = L.marker(coordinates, { icon: myIcon_Orange });
+      marker.bindPopup(popupContent);
+      marker.addTo(map);
+      }
       }
     }
 
