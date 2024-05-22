@@ -105,7 +105,7 @@ const academies = [
   },
   {
     "Name": "University of Banja Luka - Faculty of Architecture, Civil Engineering and Geodesy",
-    "Address": "Bulevar vojvode Stepe StepanoviÄ‡a 77/3, Banja Luka 78000, Bosna i Hercegovina",
+    "Address": "Bulevar vojvode Stepe Stepanovica 77/3, Banja Luka 78000, Bosna i Hercegovina",
     "Coordinates": "44.773333, 17.188889",
     "Contact": "Gordana Jakovljević",
     "Email": "gordana.jakovljevic@aggf.unibl.org",
@@ -225,7 +225,7 @@ const academies = [
   },
   {
     "Name": "Algebra University College",
-    "Address": "Algebra University, GradiÅ¡Ä‡anska 24, 10000 Zagreb, Croatia",
+    "Address": "Algebra University, Gradiscanska 24, 10000 Zagreb, Croatia",
     "Coordinates": "45.815833, 15.981111",
     "Contact": "Maja  Brkljacic",
     "Email": "maja.brkljacic@algebra.hr",
@@ -233,9 +233,9 @@ const academies = [
   },
   {
     "Name": "Croatian Crisis Management Association",
-    "Address": "StipanoviÄ‡eva 21 - 10000 Zagreb, Croatia",
+    "Address": "Stipanovieva 21 - 10000 Zagreb, Croatia",
     "Coordinates": "45.813056, 15.979167",
-    "Contact": "Igor MagdaleniÄ‡",
+    "Contact": "Igor Magdalenic",
     "Email": "hukm@hukm.hr",
     "Link": "http://hukm.hr/hr/"
   },
@@ -243,7 +243,7 @@ const academies = [
     "Name": "Oikon Ltd. - Institute of Applied Ecology",
     "Address": "Trg Senjskih Uskoka 1-2 10000 ZAGREB, Croatia",
     "Coordinates": "45.814167, 15.9775",
-    "Contact": "Dalibor HatiÄ‡",
+    "Contact": "Dalibor Hatic",
     "Email": "dhatic@oikon.hr",
     "Link": "https://oikon.hr/"
   },
@@ -251,15 +251,15 @@ const academies = [
     "Name": "Faculty of Agrobiotechnical Sciences Osijek, Josip Juraj Strossmayer University of Osijek",
     "Address": "Vladimira Preloga 1 31000 Osijek, Croatia",
     "Coordinates": "45.557222, 18.691389",
-    "Contact": "Mladen JuriÅ¡iÄ‡",
+    "Contact": "Mladen Jurisic",
     "Email": "mjurisic@fazos.hr",
     "Link": "https://www.fazos.unios.hr/"
   },
   {
     "Name": "University of Zagreb - Faculty of Geodesy",
-    "Address": "KaÄiÄ‡eva Ulica 26 10000 Zagreb, Croatia",
+    "Address": "KaÄiceva Ulica 26 10000 Zagreb, Croatia",
     "Coordinates": "45.816667, 15.983333",
-    "Contact": "Zeljko BaÄiÄ‡",
+    "Contact": "Zeljko Bacic",
     "Email": "zbacic@geof.hr",
     "Link": "https://www.geof.unizg.hr/en/"
   },
@@ -299,7 +299,7 @@ const academies = [
     "Name": "Czech University of Life Sciences Prague (CZU)",
     "Address": "Kamycka 129A 16500 Prague, Czech Republic",
     "Coordinates": "50.083333, 14.408333",
-    "Contact": "TomaÅ¡ KlouÄek",
+    "Contact": "Tomas KlouÄek",
     "Email": "tkloucek@fzp.czu.cz",
     "Link": "https://www.czu.cz/en"
   },
@@ -1545,7 +1545,7 @@ const academies = [
   },
   {
     "Name": "University of Novy Sad - Faculty of Technical Sciences",
-    "Address": "Trg Dositeja ObradoviÄ‡a 6, 21102 Novi Sad, Serbia",
+    "Address": "Trg Dositeja Obradovica 6, 21102 Novi Sad, Serbia",
     "Coordinates": "45.253333, 19.833056",
     "Contact": "Miro Govedaric",
     "Email": "miro@uns.ac.rs",
@@ -1560,8 +1560,8 @@ const academies = [
     "Link": "https://www.upjs.sk/en/"
   },
   {
-    "Name": "Faculty of Mining, Ecology, Process Control and Geotechnologies, Technical University of KoÅ¡ice",
-    "Address": "Letna 1/9 - 042 00 KoÅ¡ice-Sever - Slovak Republic",
+    "Name": "Faculty of Mining, Ecology, Process Control and Geotechnologies, Technical University of Kosice",
+    "Address": "Letna 1/9 - 042 00 Kosice-Sever - Slovak Republic",
     "Coordinates": "48.723333, 21.263056",
     "Contact": "Michal  Cehlar",
     "Email": "michal.cehlar@tuke.sk",
