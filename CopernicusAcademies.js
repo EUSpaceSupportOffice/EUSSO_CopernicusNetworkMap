@@ -1894,6 +1894,14 @@ const academies = [
     "Contact": "Laura  Castellana",
     "Email": "laura.castellana@redclara.net",
     "Link": "https://redclara.net/index.php/es/"
+  },
+    {
+    "Name": "Departamento de Geografía, Universidad de Chile",
+    "Address": "Portugal 84, Santiago, Región Metropolitana, Chile",
+    "Coordinates": "-33.44223285138732, -70.6380721093401",
+    "Contact": "Dr Pablo Sarricolea",
+    "Email": "psarricolea@uchilefau.cl",
+    "Link": "https://fau.uchile.cl/geografia"
   }
 ];
 
