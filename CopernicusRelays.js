@@ -1003,8 +1003,8 @@
       "Name": "Swedish National Space Agency",
       "Address": "Hemvärnsgatan 9 - 17154 Solna, Sweden",
       "Coordinates": "59.362222, 18.062222",
-      "Contact": "Bjorn Loven",
-      "Email": "bjorn.loven@snsa.se",
+      "Contact": "Selima Ben Mustapha",
+      "Email": "selima.benmustapha@snsa.se",
       "Link": "https://www.rymdstyrelsen.se/en/"
     },
     {
