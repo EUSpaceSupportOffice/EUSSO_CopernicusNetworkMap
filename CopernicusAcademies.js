@@ -1259,8 +1259,8 @@ const academies = [
     "Name": "Institute for Environmental Solutions (IES)",
     "Address": "Lidlauks, Priekulu parish - Priekulu County, LV-4102 Latvia",
     "Coordinates": "57.321249962345995, 25.321422343831497",
-    "Contact": "Ieva VÄ«tola",
-    "Email": "ieva.vitola@vri.lv",
+    "Contact": "Dainis Jakovels",
+    "Email": "dainis.jakovels@vri.lv",
     "Link": "https://www.lidlauks.lv/en"
   },
   {
