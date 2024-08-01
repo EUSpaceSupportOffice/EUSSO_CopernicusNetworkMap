@@ -1902,6 +1902,14 @@ const academies = [
     "Contact": "Dr Pablo Sarricolea",
     "Email": "psarricolea@uchilefau.cl",
     "Link": "https://fau.uchile.cl/geografia"
+  },
+    {
+    "Name": "MGC Consulting Niger",
+    "Address": "SONUCI , Niamey - Niger",
+    "Coordinates": "13.533303908248959, 2.1136134773453943",
+    "Contact": "Dr Moumouni Guingarey Chamssoudina",
+    "Email": "dg@mgcsigconsultingniger.com",
+    "Link": "https://www.mgcsigconsultingniger.com/"
   }
 ];
 
