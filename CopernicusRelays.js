@@ -869,7 +869,7 @@
       "Coordinates": "41.263333, -7.748333",
       "Contact": "Joao Torres",
       "Email": "joao.torres@forestwise.pt",
-      "Link": "https://www.forestwise.earth/"
+      "Link": "https://www.forestwise.pt/en/"
     },
     {
       "Name": "Portugal Space  - Portuguese Space Agency",
