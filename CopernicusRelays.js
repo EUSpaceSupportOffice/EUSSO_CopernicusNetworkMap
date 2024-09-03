@@ -347,8 +347,8 @@
       "Name": "INSIGHT SAS (New Caledonia)",
       "Address": "Rue du General Gallieni, Noumea 98800, Nouvelle-Caledonie",
       "Coordinates": "-22.266389, 166.460833",
-      "Contact": "Jean Massenet",
-      "Email": "j.massenet@insight.nc",
+      "Contact": "Sébastien Lagarde",
+      "Email": "s.lagarde@insight.nc",
       "Link": "https://insight.nc/"
     },
     {
