@@ -1213,7 +1213,7 @@ const academies = [
     "Coordinates": "41.893333, 12.513056",
     "Contact": "Fabio Del Frate",
     "Email": "fabio.del.frate@uniroma2.it",
-    "Link": "http://www.disp.uniroma2.it/earth_observation/index.php"
+    "Link": "https://www.linkedin.com/company/eo-lab-tor-vergata-university/posts/?feedView=al"
   },
   {
     "Name": "Universita degli Studi di Salerno - Dipartimento di Informatica",
