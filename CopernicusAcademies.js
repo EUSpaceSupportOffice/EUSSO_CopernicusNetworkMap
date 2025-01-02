@@ -1208,7 +1208,7 @@ const academies = [
     "Link": "https://ingegneriaindustrialeelettronicameccanica.uniroma3.it/"
   },
   {
-    "Name": "Universita degli studi di Roma \"Tor vergata\" - Earth Observation Laboratory",
+    "Name": "Universita degli studi di Roma \"Tor Vergata\" - Earth Observation Laboratory",
     "Address": "Via Cracovia, 50 - Roma, Italy",
     "Coordinates": "41.893333, 12.513056",
     "Contact": "Fabio Del Frate",
