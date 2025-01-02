@@ -1376,11 +1376,11 @@ const academies = [
     "Link": "https://unanleon.edu.ni/"
   },
   {
-    "Name": "Cooperative Information Network (COPINE) - National Space Research and Development Agency",
+    "Name": "Cooperative Information Network (COPINE) - National Space Research and Development Agency (NASRDA) - Advanced Space Technology Application Laboratory South West, Nigeria",
     "Address": "Obafemi Awolowo University Campus, P.M.B 022, Ile-Ife, Osun State, Nigeria",
     "Coordinates": "7.483333, 4.533056",
-    "Contact": "Alaga Abayomi Taofeek",
-    "Email": "alagayomi@yahoo.com",
+    "Contact": "Ayorinde Kappo",
+    "Email": "ayorinde.kappo@astalsw-narsda.org.ng",
     "Link": "https://copine.org.ng/about.html"
   },
   {
