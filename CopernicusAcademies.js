@@ -1381,7 +1381,7 @@ const academies = [
     "Coordinates": "7.483333, 4.533056",
     "Contact": "Ayorinde Kappo",
     "Email": "ayorinde.kappo@astalsw-narsda.org.ng",
-    "Link": "https://copine.org.ng/about.html"
+    "Link": "https://astalsw-nasrda.org.ng/"
   },
   {
     "Name": "Nigeria Hydrological Services Agency",
