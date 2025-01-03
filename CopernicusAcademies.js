@@ -1736,11 +1736,11 @@ const academies = [
     "Link": "https://www.siani.es/es/home.html"
   },
   {
-    "Name": "Universidad de Malaga - European Topic Centre",
+    "Name": "European Topic Centre on Spatial Analysis and Synthesis - University of Malaga (ETC-UMA)",
     "Address": "Edificio de Investigacion Ada Byron, Arquitecto Francisco Penalosa, 18, Campanillas, 29010 Malaga, Spain",
     "Coordinates": "36.723333, -4.453056",
     "Contact": "Christoph Schröder",
-    "Email": "schroeder.c@gmail.com",
+    "Email": "christoph.schroder@uma.es",
     "Link": "https://www.etc.uma.es/"
   },
   {
