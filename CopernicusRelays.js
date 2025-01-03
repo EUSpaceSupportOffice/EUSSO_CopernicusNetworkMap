@@ -323,8 +323,8 @@
       "Name": "CEREMA",
       "Address": "44 Ter r Jean Bart, 59000 Lille, France",
       "Coordinates": "50.637222, 3.067222",
-      "Contact": "Arnaud Ceyte",
-      "Email": "arnaud.ceyte@cerema.fr",
+      "Contact": "Teodolina Lopez",
+      "Email": "teodolina.lopez@cerema.fr",
       "Link": "https://www.cerema.fr/fr"
     },
     {
