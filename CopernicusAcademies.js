@@ -451,8 +451,8 @@ const academies = [
     "Name": "Eurisy",
     "Address": "52 rue Jacques Hillairet 75012 PARIS FRANCE",
     "Coordinates": "48.856389, 2.360278",
-    "Contact": "Annalisa Donati",
-    "Email": "annalisa.donati@eurisy.eu",
+    "Contact": "Graham Turnock",
+    "Email": "graham.turnock@eurisy.eu",
     "Link": "https://www.eurisy.eu/"
   },
   {
