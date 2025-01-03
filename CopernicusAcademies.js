@@ -512,7 +512,7 @@ const academies = [
     "Link": "https://www.instagram.com/citeespace/"
   },
   {
-    "Name": "MINES Paris - PNL",
+    "Name": "MINES Paris - PSL",
     "Address": "11, rue Pierre et Marie Curie - 75231 Paris - France",
     "Coordinates": "48.849722, 2.331389",
     "Contact": "Thierry Ranchin",
