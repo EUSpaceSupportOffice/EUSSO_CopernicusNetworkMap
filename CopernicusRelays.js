@@ -672,11 +672,11 @@
       "Link": "https://www.osservatori.net/it/ricerche/osservatori-attivi/space-economy"
     },
     {
-      "Name": "TeRN  - Tecnologie per le Osservazioni della Terra ed i Rischi Naturali",
+      "Name": "Consiglio Nazionale delle Ricerche (CNR) – Tecnologie per le Osservazioni della Terra ed i Rischi  Naturali (TeRN)",
       "Address": "VIA ZONA INDUSTRIALE SNC - 70015 Noci (BA) Italy",
       "Coordinates": "40.803333, 16.883333",
       "Contact": "Nicola Pergola",
-      "Email": "nicola.pergola@imaa.cnr.it",
+      "Email": "nicola.pergola@cnr.it",
       "Link": "https://www.tern.it/"
     },
     {
