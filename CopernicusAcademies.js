@@ -512,11 +512,11 @@ const academies = [
     "Link": "https://www.instagram.com/citeespace/"
   },
   {
-    "Name": "MINES ParisTech",
+    "Name": "MINES Paris - PNL",
     "Address": "11, rue Pierre et Marie Curie - 75231 Paris - France",
     "Coordinates": "48.849722, 2.331389",
     "Contact": "Thierry Ranchin",
-    "Email": "thierry.ranchin@mines-paristech.fr",
+    "Email": "thierry.ranchin@minesparis.psl.eu",
     "Link": "https://www.minesparis.psl.eu/en/home/"
   },
   {
