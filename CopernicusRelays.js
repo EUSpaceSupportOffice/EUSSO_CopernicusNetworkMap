@@ -752,20 +752,12 @@
       "Link": "https://mcst.gov.mt/"
     },
     {
-      "Name": "PA (Planning Authority)",
+      "Name": "(PA) Planning Authority/ ERA (Environment and Resources Authority) / Xjenza Malta",
       "Address": "St Francis Ravelin Floriana, FRN1230, Malta",
       "Coordinates": "35.895833, 14.495833",
       "Contact": "Elaine Sciberras",
       "Email": "elaine.sciberras@pa.org.mt",
       "Link": "https://www.pa.org.mt/"
-    },
-    {
-      "Name": "ERA (Environment and Resources Authority)",
-      "Address": "Hexagon House, Spencer Hill - Marsa, MRS 1441 - Malta",
-      "Coordinates": "35.888333, 14.483333",
-      "Contact": "Elaine Sciberras",
-      "Email": "elaine.sciberras@pa.org.mt",
-      "Link": "https://era.org.mt/"
     },
     {
       "Name": "Namibia University of Sciences and Technology (NUST)",
