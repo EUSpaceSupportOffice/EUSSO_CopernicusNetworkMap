@@ -664,7 +664,7 @@ const academies = [
     "Link": "https://www.biomimicrygreece.gr/"
   },
   {
-    "Name": "Information Technologies Institute - Center for Research and Technology Hellas (CERTH)",
+    "Name": "Center for Research and Technology Hellas (CERTH) - Information Technologies Institute & Hellenic Institute of Transport",
     "Address": "6th km Harilaou - Thermi, 57001, Thessaloniki, Greece",
     "Coordinates": "40.56745991599344, 22.997628298197263",
     "Contact": "Ioannis Manakos",
