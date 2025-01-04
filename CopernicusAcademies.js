@@ -1019,8 +1019,8 @@ const academies = [
     "Name": "Spacearth Technology S.r.l",
     "Address": "VIA DI VIGNA MURATA 605 - 00143 Roma (RM), Italy",
     "Coordinates": "41.883333, 12.513056",
-    "Contact": "Vittorio Cannas",
-    "Email": "vittorio.cannas@spacearth.net",
+    "Contact": "Alessandro Fiorini",
+    "Email": "amministrazione@spacearth.net",
     "Link": "https://www.spacearth.net/"
   },
   {
