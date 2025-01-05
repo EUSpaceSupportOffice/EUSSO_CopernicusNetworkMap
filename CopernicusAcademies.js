@@ -496,11 +496,11 @@ const academies = [
     "Link": "https://www.isunet.edu/"
   },
   {
-    "Name": "La Cite de l'Espace",
+    "Name": "La Cite de l'Espace (SEMECCEL)",
     "Address": "Avenue Jean Gonord, 31500 Toulouse, France",
     "Coordinates": "43.575278, 1.462222",
     "Contact": "Ines Prieto",
-    "Email": "i.prieto@cite-espace.com",
+    "Email": "i.prieto@semeccel.com",
     "Link": "https://www.cite-espace.com/"
   },
   {
