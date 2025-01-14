@@ -40,11 +40,11 @@ const academies = [
     "Link": "https://boku.ac.at/en/"
   },
   {
-    "Name": "University of Salzburg - Department of Geoinformatics (Z_GIS)",
+    "Name": "Paris-Lodron University Salzburg (PLUS) – Department of Geoinformatics (Z_GIS)",
     "Address": "Kapitelgasse 4 Â· 5020 Salzburg, Austria",
     "Coordinates": "47.795278, 13.046111",
     "Contact": "Stefan Lang",
-    "Email": "stefan.lang@sbg.ac.at",
+    "Email": "Stefan.Lang@plus.ac.at",
     "Link": "https://www.plus.ac.at/geoinformatik/?lang=en"
   },
   {
