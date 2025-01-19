@@ -424,7 +424,7 @@ const academies = [
     "Link": "https://www.agro-bordeaux.fr/"
   },
   {
-    "Name": "BreTel - Brittany Remote Sensing Group",
+    "Name": "IRISPACE (Institut Régional de l'Innovation Spatiale de Bretagne)",
     "Address": "IMT Atlantique Bretagne-Pays de la Loire\nCampus de Brest\nTechnopÃ´le Brest-Iroise\nCS 83818\n29238 Brest Cedex 3",
     "Coordinates": "48.403333, -4.481389",
     "Contact": "Nicolas Bellec",
