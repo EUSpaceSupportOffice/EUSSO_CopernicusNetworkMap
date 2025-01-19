@@ -608,9 +608,9 @@
       "Link": "https://www.bluefarmenvironment.com/en/"
     },
     {
-      "Name": "ENEA  - Italian National Agency for New Technologies, Energy and Sustainable Economic Development / Laboratory Technologies for the Dynamics of Structures and the Prevention of seismic and hydrogeol...",
-      "Address": "Lungotevere Thaon di Revel, 76  - 00196 Rome, Italy",
-      "Coordinates": "41.891389, 12.473889",
+      "Name": "ENEA – Italian National Agency for New Technologies, Energy and Sustainable Economic Development / SPAC Laboratory",
+      "Address": "Via dei Mille, 21, 40121 Bologna BO, Italy",
+      "Coordinates": "44.50219, 11.34087",
       "Contact": "Francesco Immordino",
       "Email": "francesco.immordino@enea.it",
       "Link": "https://www.enea.it/en"
