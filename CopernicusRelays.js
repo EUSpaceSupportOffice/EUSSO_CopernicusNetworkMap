@@ -724,7 +724,7 @@
       "Address": "MokslininkÅ³ gatvÄ— 2A - Vilnius, Lithuania",
       "Coordinates": "54.689167, 25.279722",
       "Contact": "Gediminas Vaitkus",
-      "Email": "gedas.vaitkus@gmail.com",
+      "Email": "gedas.vaitkus@geomatrix.lt",
       "Link": ""
     },
     {
