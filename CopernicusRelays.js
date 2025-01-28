@@ -69,7 +69,7 @@
       "Coordinates": "51.228333, 5.121944",
       "Contact": "Evelyn  Stynen",
       "Email": "evelyn.stynen@vito.be",
-      "Link": "https://vito.be/en"
+      "Link": "https://remotesensing.vito.be/"
     },
     {
       "Name": "Active historical map  Spatium.bg",
@@ -467,8 +467,8 @@
       "Name": "BSH  - Bundesamt für Seeschifffarht und Hydrographie",
       "Address": "Bernhard-Nocht-Str. 78, 20359 Hamburg, Germany",
       "Coordinates": "53.555278, 9.993333",
-      "Contact": "Iris Ehlert",
-      "Email": "iris.ehlert@bsh.de",
+      "Contact": "Fabian Schwichtenberg ",
+      "Email": "copernicus@bsh.de",
       "Link": "https://www.bsh.de/DE/Home/home_node.html"
     },
     {
