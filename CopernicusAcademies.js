@@ -69,7 +69,7 @@ const academies = [
     "Coordinates": "51.216944, 5.453333",
     "Contact": "Ils Reusen",
     "Email": "ils.reusen@vito.be",
-    "Link": "https://vito.be/en"
+    "Link": "https://remotesensing.vito.be/"
   },
   {
     "Name": "YouSpace",
@@ -387,8 +387,8 @@ const academies = [
     "Name": "University of Tartu - Tartu Observatory",
     "Address": "Lossi 40 51003 Tartu, Estonia",
     "Coordinates": "58.377778, 26.725278",
-    "Contact": "Anu Noorma",
-    "Email": "anu.noorma@ut.ee",
+    "Contact": "Lea Hallik",
+    "Email": "lea.hallik@ut.ee",
     "Link": "https://ut.ee/en/tartu-observatory"
   },
   {
@@ -1012,7 +1012,7 @@ const academies = [
     "Address": "Corso Castelfidardo 39 - 10129 Torino (TO), Italy",
     "Coordinates": "45.068333, 7.693056",
     "Contact": "Piero  Boccardo",
-    "Email": "copernicus.academy@polito.it",
+    "Email": "piero.boccardo@polito.it",
     "Link": "https://www.polito.it/"
   },
   {
@@ -1832,7 +1832,7 @@ const academies = [
     "Link": "http://inform.ikd.kiev.ua/en/"
   },
   {
-    "Name": "Climate-KIC",
+    "Name": "EIT Climate-KIC",
     "Address": "Climate-KIC Holding B.V.\nUK Branch\n15-17 Leek Street, London WC1X 9HY United Kingdom",
     "Coordinates": "51.513333, -0.123056",
     "Contact": "Kevin Ramirez",
