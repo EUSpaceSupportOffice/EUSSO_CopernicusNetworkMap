@@ -580,7 +580,7 @@
       "Address": "2100 GodollÅ‘, Páter Károly utca 1., Hungary",
       "Coordinates": "47.598333, 19.375278",
       "Contact": "Zoltan Vekerdy",
-      "Email": "z.vekerdy@utwente.nl",
+      "Email": "vekerdy.zoltan@uni-mate.hu",
       "Link": "https://en.uni-mate.hu/"
     },
     {
