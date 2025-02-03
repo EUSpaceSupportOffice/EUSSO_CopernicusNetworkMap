@@ -579,8 +579,8 @@ const academies = [
     "Name": "EIT RawMaterials",
     "Address": "Europaplatz 2 - Berlin, Germany",
     "Coordinates": "52.519722, 13.376389",
-    "Contact": "Wesley  Crock",
-    "Email": "Wesley.crock@eitrawmaterials.eu",
+    "Contact": "Alison Nicole Opalko",
+    "Email": "Alison.opalko@eitrawmaterials.eu",
     "Link": "https://eitrawmaterials.eu/"
   },
   {
