@@ -280,7 +280,7 @@ const academies = [
     "Link": "https://www.spaceexploration.org.cy/"
   },
   {
-    "Name": "Cyprus University of Technology - Eratosthenes Research Centre",
+    "Name": "Cyprus University of Technology - Eratosthenes Centre of Excellence",
     "Address": "82 Franklin Roosevelt, 3012,\nLemesos, Cyprus",
     "Coordinates": "34.690556, 33.047222",
     "Contact": "Diofantos Gl.  Hadjimitsis",
