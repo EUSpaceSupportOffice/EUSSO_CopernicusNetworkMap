@@ -1236,7 +1236,7 @@ const academies = [
     "Address": "Galleria del Corso 2 - 20122 Milano (MI), Italy",
     "Coordinates": "45.46496564342945, 9.194928339776528",
     "Contact": "Marco Di Fonzo",
-    "Email": "difonzo.m@gmail.com",
+    "Email": "marco.difonzo@unipegaso.it",
     "Link": "https://www.unifortunato.eu/"
   },
   {
