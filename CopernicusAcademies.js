@@ -435,8 +435,8 @@ const academies = [
     "Name": "CNRS - OSU Network CNRS-INSU",
     "Address": "3-5 Rue Michel Ange F-75016 Paris, France",
     "Coordinates": "48.859167, 2.289722",
-    "Contact": "Sophie Godin-Beekmann",
-    "Email": "sophie.godin-beekmann@cnrs.fr",
+    "Contact": "Sébastien Payan",
+    "Email": "sebastien.payan@sorbonne-universite.fr",
     "Link": "https://www.insu.cnrs.fr/en/observatories-sciences-universe-osu"
   },
   {
