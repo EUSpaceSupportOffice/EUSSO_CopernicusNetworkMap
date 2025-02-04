@@ -427,8 +427,8 @@
       "Name": "BBK  - Bundesamt für Bevolkerungsschultz und Katastrophenhilfe",
       "Address": "Provinzialstr. 93 Â· 53127 Bonn, Germany",
       "Coordinates": "50.736944, 7.092222",
-      "Contact": "Fabian Low",
-      "Email": "fabian.loew@bbk.bund.de",
+      "Contact": "Ruben Piroska",
+      "Email": "copernicus.ems@bbk.bund.de",
       "Link": "https://www.bbk.bund.de/DE/Home/home_node.html"
     },
     {
