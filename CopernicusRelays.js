@@ -600,11 +600,11 @@
       "Link": "https://www.amfm.it/"
     },
     {
-      "Name": "Bluefarm S.r.l",
+      "Name": "Bluefarm LtD",
       "Address": "Via Torino 107 - 30172 Venezia Mestre (VE)  - Italy",
       "Coordinates": "45.489444, 12.243333",
-      "Contact": "Edouard Royer",
-      "Email": "edouard@bluefarmenvironment.com",
+      "Contact": "Roberto Pastres",
+      "Email": "pastres@unive.it",
       "Link": "https://www.bluefarmenvironment.com/en/"
     },
     {
