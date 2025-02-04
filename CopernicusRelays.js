@@ -980,7 +980,7 @@
       "Address": "Calle del Gral. Ibánez de Ibero, 3 Madrid, Spain",
       "Coordinates": "40.425833, -3.683333",
       "Contact": "Bruno  Perez Martí­n",
-      "Email": "bpmartin@mitma.es",
+      "Email": "bperez@transportes.gob.es",
       "Link": "https://www.ign.es/csw-inspire/srv/eng/main.home"
     },
     {
