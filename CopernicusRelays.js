@@ -912,12 +912,12 @@
       "Link": "https://aet.org.es/"
     },
     {
-      "Name": "CDTI  - Centre for the Development of Industrial Technology (in a coalition with the Spanish Ministry of Environment (MITECO))",
-      "Address": "C. del Cid, 4 Madrid, Spain",
-      "Coordinates": "40.418889, -3.703611",
-      "Contact": "Monica Lopez Lopez",
-      "Email": "monica.lopez@cdti.es",
-      "Link": "https://www.cdti.es/en"
+      "Name": "Agencia Espacial Española AEE (Spanish Space Agency)",
+      "Address": "C. José Galán Merino, 6, 41015 Sevilla, Spain",
+      "Coordinates": "37.420214, -5.986843",
+      "Contact": "Nicolas Martin Martin",
+      "Email": "nicolas.martin@aee.gob.es",
+      "Link": "https://aee.gob.es"
     },
     {
       "Name": "Evenor-Tech S.L.U.",
