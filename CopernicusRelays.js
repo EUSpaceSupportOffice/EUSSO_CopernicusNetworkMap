@@ -64,14 +64,6 @@
       "Link": "https://verhaert.com/"
     },
     {
-      "Name": "VITO",
-      "Address": "Boeretang 200, 2400 Mol, Belgium",
-      "Coordinates": "51.228333, 5.121944",
-      "Contact": "Evelyn  Stynen",
-      "Email": "evelyn.stynen@vito.be",
-      "Link": "https://remotesensing.vito.be/"
-    },
-    {
       "Name": "Active historical map  Spatium.bg",
       "Address": "42 Alabin, Sofia, Bulgaria",
       "Coordinates": "42.697389, 23.324222",
