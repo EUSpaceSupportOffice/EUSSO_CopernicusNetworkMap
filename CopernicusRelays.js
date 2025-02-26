@@ -27,8 +27,8 @@
       "Name": "FFG  - Austrian Research Promotion Agency",
       "Address": "Sensengasse 1  - 1090 Vienna, AUSTRIA",
       "Coordinates": "48.208353, 16.373819",
-      "Contact": "Thomas Geist",
-      "Email": "thomas.geist@ffg.at",
+      "Contact": "Kostanze Fila",
+      "Email": "konstanze.fila@ffg.at",
       "Link": "https://www.ffg.at/en"
     },
     {
