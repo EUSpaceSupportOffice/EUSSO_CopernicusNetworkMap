@@ -52,7 +52,7 @@ const academies = [
     "Address": "Campus Solbosch, BÃ¢t.D, Niveaux 3-4-5-6, avenue Antoine Depage, 30 Ã  1050 Bruxelles",
     "Coordinates": "50.813333, 4.395278",
     "Contact": "Eleonore  Wolff",
-    "Email": "ewolff@ulb.ac.be",
+    "Email": "eleonore.wolff@ulb.be",
     "Link": "https://sciences.ulb.be/departement-geosciences-environnement-et-societe"
   },
   {
