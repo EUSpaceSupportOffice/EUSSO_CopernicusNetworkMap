@@ -96,7 +96,7 @@
       "Link": "https://rst-tto.com/pro_rst.html"
     },
     {
-      "Name": "Centro de Informaci on de Recursos Naturales (CIREN)",
+      "Name": "Centro de Informacion de Recursos Naturales (CIREN)",
       "Address": "Avenida Manuel Montt 1164, Providencia, Santiago, Chile",
       "Coordinates": "-33.423889, -70.626944",
       "Contact": "Daniela González Espinoza",
@@ -107,8 +107,8 @@
       "Name": "Fundacion Empresarial Eurochile",
       "Address": "Calle Galvarino Gallardo 1690, Providencia, Santiago - Chile",
       "Coordinates": "-33.425, -70.619722",
-      "Contact": "Manuela Caruz",
-      "Email": "mcaruz@eurochile.cl",
+      "Contact": "Felipe Mujica",
+      "Email": "fmujica@eurochile.cl",
       "Link": "https://eurochile.cl/es/"
     },
     {
