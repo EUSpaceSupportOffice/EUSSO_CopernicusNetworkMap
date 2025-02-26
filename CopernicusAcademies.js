@@ -1896,14 +1896,6 @@ const academies = [
     "Link": "https://fau.uchile.cl/geografia"
   },
     {
-    "Name": "Departamento de Geografía, Universidad de Chile",
-    "Address": "Portugal 84, Santiago, Región Metropolitana, Chile",
-    "Coordinates": "-33.44223285138732, -70.6380721093401",
-    "Contact": "Dr Pablo Sarricolea",
-    "Email": "psarricolea@uchilefau.cl",
-    "Link": "https://fau.uchile.cl/geografia"
-  },
-    {
     "Name": "Università degli Studi di Cagliari",
     "Address": "Via Università, 40, 09124 Cagliari CA, Italy",
     "Coordinates": "39.21767176718573, 9.114988756913103",
