@@ -32,14 +32,6 @@ const academies = [
     "Link": "https://www.spatial-services.com/"
   },
   {
-    "Name": "University of Natural Resources and Applied Life Sciences (BOKU)",
-    "Address": "Gregor-Mendel Straße 33 Â· 1180 Vienna, Austria",
-    "Coordinates": "48.201944, 16.383333",
-    "Contact": "Clement Atzberger",
-    "Email": "clement.atzberger@boku.ac.at",
-    "Link": "https://boku.ac.at/en/"
-  },
-  {
     "Name": "Paris-Lodron University Salzburg (PLUS) – Department of Geoinformatics (Z_GIS)",
     "Address": "Kapitelgasse 4 Â· 5020 Salzburg, Austria",
     "Coordinates": "47.795278, 13.046111",
