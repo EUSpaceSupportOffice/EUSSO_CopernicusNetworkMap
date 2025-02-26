@@ -91,8 +91,8 @@
       "Name": "RST-TTO 'Bulgarian Academy of Science'",
       "Address": "ul. \"15-ti noemvri\" 1, Sofia, Bulgaria",
       "Coordinates": "42.696111, 23.3225",
-      "Contact": "Kamen Iliev",
-      "Email": "director@rst-tto.com",
+      "Contact": "Veronika Lozanova",
+      "Email": "v.lozanova@rst-tto.com",
       "Link": "https://rst-tto.com/pro_rst.html"
     },
     {
