@@ -203,8 +203,8 @@ const academies = [
     "Name": "Colegio Federado de Ingenieros y de Arquitectura de Costa Rica (CFIA)\n[Member of CSUCA consortium]",
     "Address": "Contiguo al Indoor Club de Curridabat, San Jose, Costa Rica",
     "Coordinates": "9.933333, -84.091667",
-    "Contact": "Carlos Enrique  Alvarado-Briceno",
-    "Email": "calvaradob@cfia.or.cr",
+    "Contact": "Marcial Rivera Rodríguez",
+    "Email": "mrivera@cfia.cr",
     "Link": "https://cfia.or.cr/"
   },
   {
