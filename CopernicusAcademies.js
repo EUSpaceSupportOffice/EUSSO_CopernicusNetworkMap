@@ -268,7 +268,7 @@ const academies = [
     "Address": "Alkiviadi 1, 1016 Nicosia, Cyprus",
     "Coordinates": "35.169722, 33.374167",
     "Contact": "George Danos",
-    "Email": "george@spaceexploration.org.cy",
+    "Email": "info@space.org.cy",
     "Link": "https://www.spaceexploration.org.cy/"
   },
   {
