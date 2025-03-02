@@ -400,12 +400,12 @@ const academies = [
     "Link": "https://www.agroparistech.fr/"
   },
   {
-    "Name": "Bordeaux INP, Aerocampus Aquitaine",
-    "Address": "1 rte Cenac, 33360 Latresne, France",
-    "Coordinates": "44.780278, -0.563056",
+    "Name": "ENSEIRB-MATMECA Bordeaux INP",
+    "Address": "1 Avenue du Dr Albert Schweitzer, Talence, France",
+    "Coordinates": "44.80568, -0.60484",
     "Contact": "Eric Kerherve",
-    "Email": "eric.kerherve@bordeaux-inp.fr",
-    "Link": "https://www.bordeaux-inp.fr/fr/aerocampus"
+    "Email": "eric.kerherve@enseirb-matmeca.fr",
+    "Link": "https://enseirb-matmeca.bordeaux-inp.fr/fr"
   },
   {
     "Name": "Bordeaux Sciences Agro, Montpellier Sup Agro",
