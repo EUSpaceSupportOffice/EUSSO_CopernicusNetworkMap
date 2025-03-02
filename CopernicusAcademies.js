@@ -472,7 +472,7 @@ const academies = [
     "Link": "https://www.ipsa.fr/"
   },
   {
-    "Name": "Institut Superieur de l'Aeronautique et de l'Espace (ISAE-SUPAERO)",
+    "Name": "ISAE-SUPAERO & CESBIO, University of Toulouse",
     "Address": "10, avenue Ã‰douard-Belin - BP 54032 - 31055 Toulouse, France",
     "Coordinates": "43.582500, 1.435556",
     "Contact": "Laurent Ferro-Famil",
