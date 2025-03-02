@@ -296,12 +296,12 @@ const academies = [
     "Link": "https://www.czu.cz/en"
   },
   {
-    "Name": "ESERO - European Sapce Education Resource Office, CZ",
+    "Name": "Planetum, ESERO – European Space Education Resource Office, CZ",
     "Address": "Celetna 593/21 - 110 00 Praha 1 - Stare mÄ›sto, Czech Republic",
     "Coordinates": "50.089167, 14.4125",
-    "Contact": "Petr Mares",
-    "Email": "mares@sciencein.cz",
-    "Link": "https://esero.spaceacademy.cz/"
+    "Contact": "Jan Vesely",
+    "Email": "vesely@planetum.cz",
+    "Link": "https://www.eserocz.cz/o-esa-esero"
   },
   {
     "Name": "SCIENCE IN (CZ), S.r.o.",
