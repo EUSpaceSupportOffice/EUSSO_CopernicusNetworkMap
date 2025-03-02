@@ -282,9 +282,9 @@
     {
       "Name": "Aerospace Valley (representative of the NOVA Booster consortium)",
       "Address": "118 rte Narbonne, 31400 Toulouse",
-      "Coordinates": "43.594167, 1.443889",
-      "Contact": "Catalina Rodriguez",
-      "Email": "rodriguez@aerospace-valley.com",
+      "Coordinates": "43.56335, 1.48814",
+      "Contact": "Sylvie Teysseyre",
+      "Email": "equipe-espace@aerospace-valley.com",
       "Link": "https://www.aerospace-valley.com/"
     },
     {
