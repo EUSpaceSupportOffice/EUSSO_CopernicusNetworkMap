@@ -496,11 +496,11 @@ const academies = [
     "Link": "https://www.cite-espace.com/"
   },
   {
-    "Name": "LATMOS-IPSL",
+    "Name": "LATMOS-USVQ",
     "Address": "11 Bd d'Alembert - Guyancourt, France",
     "Coordinates": "48.785833, 2.090278",
     "Contact": "Philippe Keckhut",
-    "Email": "keckhut@latmos.ipsl.fr",
+    "Email": "philippe.keckhut@uvsq.fr",
     "Link": "https://www.instagram.com/citeespace/"
   },
   {
