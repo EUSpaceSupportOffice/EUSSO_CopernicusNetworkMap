@@ -193,11 +193,11 @@ const academies = [
   },
   {
     "Name": "Facultad Latinoamericana de Ciencias Sociales (FLACSO)\n[Member of CSUCA consortium]",
-    "Address": "Ajusco Km. 1, 14200 Ciudad de Mexico, Ciudad de Mexico, Mexico",
-    "Coordinates": "19.343333, -99.173333",
-    "Contact": "Josette  Altmann",
-    "Email": "jaltmann@flacso.org",
-    "Link": "https://www.flacso.edu.ec/"
+    "Address": "Av.18A, Calle 75, Barrio El Prado, Curridabat, Costa Rica",
+    "Coordinates": "9.92787, -84.04329",
+    "Contact": "Priscilla Villegas",
+    "Email": "pvillegas@flacso.org",
+    "Link": "https://www.flacso.org/es"
   },
   {
     "Name": "Colegio Federado de Ingenieros y de Arquitectura de Costa Rica (CFIA)\n[Member of CSUCA consortium]",
