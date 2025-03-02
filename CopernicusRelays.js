@@ -257,8 +257,8 @@
     },
     {
       "Name": "Pacific GIS and Remote Sensing Council",
-      "Address": "Fiji",
-      "Coordinates": "-18.1416, 178.4419",
+      "Address": "Suva, Fiji",
+      "Coordinates": "-17.06634, 178.21000",
       "Contact": "Wolf Forstreuter",
       "Email": "wolf.forstreuter@gmail.com",
       "Link": "https://pgrsc.org/"
