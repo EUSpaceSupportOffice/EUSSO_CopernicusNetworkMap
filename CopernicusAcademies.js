@@ -1832,14 +1832,6 @@ const academies = [
     "Link": "https://www.climate-kic.org/"
   },
   {
-    "Name": "European Schools of Culham, Munich, Bruxelles I (Uccle)",
-    "Address": "Thame Lane, Abingdon OX14 3DZ, United Kingdom",
-    "Coordinates": "51.673333, -1.283056",
-    "Contact": "Nicolas Bounet",
-    "Email": "nicolas.bounet@gmail.com",
-    "Link": "https://www.eursc.eu/en"
-  },
-  {
     "Name": "NERC Field Spectroscopy Facility",
     "Address": "Room 248, Grant Institute, School of GeoSciences, University of Edinburgh, James Hutton Road, Edinburgh EH9 3FE, UK",
     "Coordinates": "55.943333, -3.183056",
