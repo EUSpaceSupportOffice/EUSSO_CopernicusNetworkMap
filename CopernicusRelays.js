@@ -243,8 +243,8 @@
       "Name": "Secretarí­a General del Sistema de la Integracion Centroamericana (SG-SICA)",
       "Address": "Final Bulevar Cancillería,\nDistrito El Espino, Ciudad Merliot,\nAntiguo Cuscatlán, La Libertad, El Salvador",
       "Coordinates": "13.695278, -89.230833",
-      "Contact": "Jorge Cabrera",
-      "Email": "jcabrera@sica.int",
+      "Contact": "Desirée Garcia Flores",
+      "Email": "desiree.garcia@sica.int",
       "Link": "https://www.sica.int/sgsica/inicio"
     },
     {
