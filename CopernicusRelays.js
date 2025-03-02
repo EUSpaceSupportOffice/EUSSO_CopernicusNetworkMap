@@ -227,8 +227,8 @@
       "Name": "Czech Hydrometeorological Institute",
       "Address": "Kroftova 2578/43 61600 Brno, Czech Republic",
       "Coordinates": "49.193611, 16.606944",
-      "Contact": "Martina  Sálová",
-      "Email": "martina.salova@chmi.cz",
+      "Contact": "Lucie Bursová",
+      "Email": "lucie.bursova@chmi.cz",
       "Link": "https://www.chmi.cz/?l=en"
     },
     {
