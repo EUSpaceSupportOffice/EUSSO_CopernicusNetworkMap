@@ -428,7 +428,7 @@
       "Address": "Am Mainzer Tor 1, 56068 Koblenz, Germany",
       "Coordinates": "50.354444, 7.596389",
       "Contact": "Bjorn Baschek",
-      "Email": "baschek@bafg.de",
+      "Email": "copernicus@bafg.de",
       "Link": "https://www.chr-khr.org/en/institute/federal-institute-hydrology"
     },
     {
