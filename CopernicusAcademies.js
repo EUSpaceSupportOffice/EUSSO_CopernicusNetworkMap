@@ -560,14 +560,6 @@ const academies = [
     "Link": "https://www.hft-stuttgart.com/geomatics/master-photogrammetry-and-geoinformatics"
   },
   {
-    "Name": "Earth Observation Center (EOC), DLR",
-    "Address": "MÃ¼nchener Str. 20 Â· 82234 Weßling, Germany",
-    "Coordinates": "48.103333, 11.383333",
-    "Contact": "Doris Klein",
-    "Email": "doris.klein@dlr.de",
-    "Link": "https://www.dlr.de/eoc/en/"
-  },
-  {
     "Name": "EIT RawMaterials",
     "Address": "Europaplatz 2 - Berlin, Germany",
     "Coordinates": "52.519722, 13.376389",
