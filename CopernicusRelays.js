@@ -468,7 +468,7 @@
       "Address": "Steubenstr. 64 45138 Essen, Deutschland",
       "Coordinates": "51.453889, 7.013611",
       "Contact": "Andreas Müterthies",
-      "Email": "Andreas.mueterthies@eftas.com",
+      "Email": "andreas.mueterthies@ddgi.de",
       "Link": "https://ddgi.de/"
     },
     {
