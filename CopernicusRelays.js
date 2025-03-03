@@ -515,8 +515,8 @@
       "Name": "Julius Kühn-Institut  - Federal Research Centre for Cultivated Plants",
       "Address": "Messeweg 11 12 Â· 38104 Braunschweig, Germany",
       "Coordinates": "52.263333, 10.515",
-      "Contact": "Holger Lilienthal",
-      "Email": "holger.lilienthal@julius-kuehn.de",
+      "Contact": "Heike Gerighausen",
+      "Email": "heike.gerighausen@julius-kuehn.de",
       "Link": "https://www.julius-kuehn.de/en/"
     },
     {
