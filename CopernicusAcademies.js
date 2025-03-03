@@ -608,11 +608,11 @@ const academies = [
     "Link": "https://www.geographie.ruhr-uni-bochum.de/index.html.en"
   },
   {
-    "Name": "University of Bonn - Remote Sensing Research Group (RSRG)",
+    "Name": "University of Bonn – Zentrum für Fernerkundung der Landoberfläche (ZFL)",
     "Address": "Meckenheimer Allee 166 - 53115 Bonn, Germany",
     "Coordinates": "50.729722, 7.067500",
-    "Contact": "Olena Dubovyk",
-    "Email": "odubovyk@uni-bonn.de",
+    "Contact": "Michael Schmidt",
+    "Email": "michaelschmidt@uni-bonn.de",
     "Link": "https://www.geographie.uni-bonn.de/en/research/research-groups/rg-malenovsky/team"
   },
   {
