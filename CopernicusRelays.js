@@ -507,8 +507,8 @@
       "Name": "GeolT Round Table NRW",
       "Address": "Rothenburg, 48143 Münster, Germany",
       "Coordinates": "51.962222, 7.625",
-      "Contact": "Albert Remke",
-      "Email": "a.remke@52north.org",
+      "Contact": "Andreas Müterthies",
+      "Email": "andreas.mueterthies@eftas.com",
       "Link": "https://www.gdi.nrw/"
     },
     {
