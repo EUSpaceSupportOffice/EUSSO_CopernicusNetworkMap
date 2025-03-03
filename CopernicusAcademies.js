@@ -584,7 +584,7 @@ const academies = [
     "Link": "https://www.uni-jena.de/en"
   },
   {
-    "Name": "Heidelberg University of Education & Heidelberg University - UNESCO Chair on Observation and Education of World",
+    "Name": "Heidelberg University of Education & Heidelberg University - UNESCO Chair on Observation and Education of World Heritage and Biosphere Reserve",
     "Address": "Hauptstr. 114 Â· 69117 Heidelberg, Germany",
     "Coordinates": "49.412500, 8.688889",
     "Contact": "Alexander Siegmund",
