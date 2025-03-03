@@ -528,9 +528,9 @@
       "Link": "https://www.umwelt.sachsen.de/umwelt/klaps/state_agency_environment_agriculture_geology.htm"
     },
     {
-      "Name": "LLUR  - Landesamt für Landwirtschaft, Umwelt und ländliche Räume, Schleswig-Holstein",
-      "Address": "Hamburger Chaussee 25 Â· 24220 GroÃŸflintbek, Germany",
-      "Coordinates": "53.720278, 10.131111",
+      "Name": "LfU (Landesamt für Umwelt SH)",
+      "Address": "Hamburger Chaussee 25 Â· 24220 Flintbek, Germany",
+      "Coordinates": "54.246887, 10.049934",
       "Contact": "Tobias Roder",
       "Email": "tobias.roeder@lfu.landsh.de",
       "Link": "https://www.schleswig-holstein.de/EN/home/home_node.html"
