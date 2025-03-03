@@ -843,8 +843,8 @@ const academies = [
     "Name": "AGRICOLUS S.r.l.",
     "Address": "Via Settevalli 320 - 06129 Perugia (PG), Italy",
     "Coordinates": "43.08634173011208, 12.367660575581182",
-    "Contact": "Chiara Fusari",
-    "Email": "c.fusari@agricolus.com",
+    "Contact": "Federica Ferroni",
+    "Email": "f.ferroni@agricolus.com",
     "Link": "https://www.agricolus.com/"
   },
   {
