@@ -675,8 +675,8 @@ const academies = [
     "Name": "Athena Research Centre - Corallia\n[Member of GR-CAN]",
     "Address": "Kifissias Ave. 44 Monumental Plaza-Building C - Athens, Greece",
     "Coordinates": "37.983333, 23.773056",
-    "Contact": "Dimitrios Soudris",
-    "Email": "dsoudris@microlab.ntua.gr",
+    "Contact": "Jorge Sanchez",
+    "Email": "j.sanchez@corallia.org",
     "Link": "https://www.athenarc.gr/en/corallia"
   },
   {
@@ -694,14 +694,6 @@ const academies = [
     "Contact": "Dimitrios Soudris",
     "Email": "dsoudris@microlab.ntua.gr",
     "Link": "https://en.uoa.gr/"
-  },
-  {
-    "Name": "Aristotle University of Thessaloniki (AUTH) - Laboratory of Applied Soil Science; Laboratory of Remote Sensing, Spectroscopy and GIS; Automation and Robotics Laboratory\n[Member of GR-CAN]",
-    "Address": "A.U.Th. Campus, Building C, 3rd Floor (Information Processing La 54124 THESSALONIKI, Greece",
-    "Coordinates": "40.638056, 22.944722",
-    "Contact": "Dimitrios Soudris",
-    "Email": "dsoudris@microlab.ntua.gr",
-    "Link": "https://www.auth.gr/en/"
   },
   {
     "Name": "Harokopio University of Athens",
@@ -755,8 +747,8 @@ const academies = [
     "Name": "University of Thessaly",
     "Address": "Argonafton & Filellinon - 382 21, Volos, Greece",
     "Coordinates": "39.383333, 22.925000",
-    "Contact": "Dimitrios Stathakis",
-    "Email": "dstath@uth.gr",
+    "Contact": "Ioannis Faraslis",
+    "Email": "faraslis@uth.gr",
     "Link": "https://www.uth.gr/en"
   },
   {
