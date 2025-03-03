@@ -552,11 +552,11 @@
       "Link": "https://www.athenarc.gr/en/corallia"
     },
     {
-      "Name": "FORTH/PRAXI Network (PRAXI) & Îational ÎŸbservatory of Î‘thens (NOA)",
+      "Name": "National Observatory of Athens (NOA)",
       "Address": "Kolokotroni 8, 105 61, Athens, Greece",
       "Coordinates": "37.9725, 23.726389",
-      "Contact": "Costas Karamanis",
-      "Email": "karamanis@help-forward.gr",
+      "Contact": "Aspasia Trevlaki",
+      "Email": "trevlaki@noa.gr",
       "Link": "https://www.noa.gr/"
     },
     {
