@@ -940,7 +940,7 @@ const academies = [
     "Address": "Borgo Grotta Gigante 42/C - 34010 - Sgonico ( TS ) - Italy",
     "Coordinates": "45.663333, 13.803056",
     "Contact": "Nicola  Casagli",
-    "Email": "ncasagli@inogs.it",
+    "Email": "ncasagli@ogs.it",
     "Link": "https://www.ogs.it/en"
   },
   {
