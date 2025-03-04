@@ -1155,7 +1155,7 @@ const academies = [
     "Name": "Universita di Roma \"La Sapienza\" - C.I.T.E.R.A.",
     "Address": "Piazzale Aldo Moro 5, 00185 Roma, Italy",
     "Coordinates": "41.90106441356529, 12.512849648753088",
-    "Contact": "Fabrizio Cumo",
+    "Contact": "Spartaco Paris",
     "Email": "centrocitera@uniroma1.it",
     "Link": "https://web.uniroma1.it/citera/home-page"
   },
