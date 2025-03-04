@@ -608,11 +608,11 @@
       "Link": "https://www.enea.it/en"
     },
     {
-      "Name": "Fondazione E. Amaldi (former Hypatia Research Consortium)",
+      "Name": "Fondazione E. Amaldi",
       "Address": "Via del Politecnico, snc Roma (RM) Italy",
       "Coordinates": "41.902222, 12.485833",
-      "Contact": "Giorgia D'Agostinis",
-      "Email": "giorgia.dagostinis@fondazioneamaldi.it",
+      "Contact": "Eleonora Lombardi",
+      "Email": "eleonora.lombardi@fondazioneamaldi.it",
       "Link": "https://www.fondazioneamaldi.it/en/"
     },
     {
