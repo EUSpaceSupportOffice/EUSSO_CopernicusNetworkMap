@@ -652,7 +652,7 @@
       "Address": "Via Sallustiana 23 - 00187 Roma (RM), Italy",
       "Coordinates": "41.901389, 12.491389",
       "Contact": "Valerio Caroselli",
-      "Email": "vcaroselli@gmail.com",
+      "Email": "lazioconnect@lazioconnect.it",
       "Link": "https://www.lazioconnect.it/en/home-2/"
     },
     {
