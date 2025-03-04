@@ -1179,8 +1179,8 @@ const academies = [
     "Name": "Universita degli Studi \"Roma Tre\" - Dipartimento di Ingegneria",
     "Address": "VIA VITO VOLTERRA 62 - 00146 Roma (RM), Italy",
     "Coordinates": "41.908056, 12.503056",
-    "Contact": "Georgio Bellotti",
-    "Email": "giorgio.bellotti@uniroma3.it",
+    "Contact": "Andrea Benedetto",
+    "Email": "andrea.benedetto@uniroma3.it",
     "Link": "https://ingegneriaindustrialeelettronicameccanica.uniroma3.it/"
   },
   {
