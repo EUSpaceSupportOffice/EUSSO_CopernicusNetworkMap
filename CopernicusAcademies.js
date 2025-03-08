@@ -1252,7 +1252,7 @@ const academies = [
     "Address": "H Manto 84 92294 Klaipeda, Lithuania",
     "Coordinates": "55.703333, 21.133056",
     "Contact": "Diana Vaiciute",
-    "Email": "diana.vaiciute@jmtc.ku.lt",
+    "Email": "diana.vaiciute@ku.lt",
     "Link": "https://jti.ku.lt/en/"
   },
   {
@@ -1867,7 +1867,7 @@ const academies = [
     "Name": "Departamento de Geografía, Universidad de Chile",
     "Address": "Portugal 84, Santiago, Región Metropolitana, Chile",
     "Coordinates": "-33.44223285138732, -70.6380721093401",
-    "Contact": "Dr Pablo Sarricolea",
+    "Contact": "Pablo Sarricolea",
     "Email": "psarricolea@uchilefau.cl",
     "Link": "https://fau.uchile.cl/geografia"
   },
@@ -1875,9 +1875,17 @@ const academies = [
     "Name": "Università degli Studi di Cagliari",
     "Address": "Via Università, 40, 09124 Cagliari CA, Italy",
     "Coordinates": "39.21767176718573, 9.114988756913103",
-    "Contact": "Prof. Maria Teresa Melis",
+    "Contact": "Maria Teresa Melis",
     "Email": "titimelis@unica.it",
     "Link": "https://www.unica.it"
+  },
+    {
+    "Name": "University of L’Aquila, Department of Civil, Construction-Architectural and Environmental Engineering",
+    "Address": "Via Università, 40, 09124 Cagliari CA, Italy",
+    "Coordinates": "42.33687, 13.37687",
+    "Contact": "Donatella Dominici",
+    "Email": "donatella.dominici@univaq.it",
+    "Link": "https://diceaa.univaq.it/index.php?id=3509&no_cache=1"
   }
 ];
 
