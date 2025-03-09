@@ -788,7 +788,7 @@
       "Address": "ul. Postepu 15 02-676 Warszawa, POLSKA Adgar Plaza One - Warszawa, Poland",
       "Coordinates": "52.18016056165574, 20.99605235872738",
       "Contact": "Pawel Kwiatkowski",
-      "Email": "pawel.kwiatkowski@abgi ‘poland.com",
+      "Email": "pawel.kwiatkowski@abgi-poland.com",
       "Link": "http://www.igik.edu.pl/en"
     },
     {
@@ -819,12 +819,12 @@
       "Name": "Associaçao RAEGE Açores",
       "Address": "ESTRADA DOS PIQUINHOS SíƒO PEDRO 9580-324, Portugal",
       "Coordinates": "36.98584385263342, -25.12604004448896",
-      "Contact": "Luí­sa Magalhaes",
+      "Contact": "Luí­sa Moniz",
       "Email": "Luisa.VM.Moniz@azores.gov.pt",
-      "Link": ""
+      "Link": "https://portal.azores.gov.pt/web/ema-espaco/raege-az"
     },
     {
-      "Name": "+ATLANTIC",
+      "Name": "CoLAB +ATLANTIC",
       "Address": "Rua do Instituto Industrial 16, 1200-225 Lisboa, Portugal",
       "Coordinates": "38.712222, -9.138889",
       "Contact": "Ana Oliveira",
@@ -886,14 +886,6 @@
       "Contact": "Tomaz Rodic",
       "Email": "tomaz.rodic@space.si",
       "Link": "https://www.space.si/en/"
-    },
-    {
-      "Name": "Zavod Kurz",
-      "Address": "Resljeva cesta 26 1000 Liubliana, Slovenia",
-      "Coordinates": "46.052778, 14.497222",
-      "Contact": "Lenka Glozancev",
-      "Email": "lenka@kurz.si",
-      "Link": ""
     },
     {
       "Name": "Asociacion Espanola de Teledeteccion (AET)",
