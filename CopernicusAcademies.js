@@ -1886,6 +1886,14 @@ const academies = [
     "Contact": "Donatella Dominici",
     "Email": "donatella.dominici@univaq.it",
     "Link": "https://diceaa.univaq.it/index.php?id=3509&no_cache=1"
+  },
+    {
+    "Name": "MGC Consulting Niger",
+    "Address": "SONUCI , Niamey - Niger",
+    "Coordinates": "13.54898, 2.06733",
+    "Contact": "Moumouni Guingarey Chamssoudina",
+    "Email": "dg@mgcsigconsultingniger.com",
+    "Link": "https://www.mgcsigconsultingniger.com/"
   }
 ];
 
