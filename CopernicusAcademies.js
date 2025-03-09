@@ -1840,14 +1840,6 @@ const academies = [
     "Link": "https://comet.nerc.ac.uk/"
   },
   {
-    "Name": "University of Reading - Institute of Environmental Analytics (IEA), National Centre for Earth Observation",
-    "Address": "2nd Floor, Philip Lyle Building - Whiteknights Campus, Reading RG6 6B",
-    "Coordinates": "51.443333, -0.933056",
-    "Contact": "Uzma Saeed",
-    "Email": "u.saeed@reading.ac.uk",
-    "Link": "https://www.the-iea.org/"
-  },
-  {
     "Name": "Cooperacion Latinoamericana de Redes Avanzadas (RedCLARA)",
     "Address": "Rambla Republica de Mexico 6125. Montevideo 11400. Uruguay.",
     "Coordinates": "-34.903333, -56.183056",
