@@ -1000,7 +1000,7 @@
       "Link": "http://www.oss-online.org/fr"
     },
     {
-      "Name": "East Midlands Centre of Excellence in Satellite Applications and National Centre for Earth Observation (NCEO)",
+      "Name": "National Centre for Earth Observation (NCEO)",
       "Address": "The University of Leicester,\nUniversity Road,\nLeicester,\nLE1 7RH,\nUnited Kingdom",
       "Coordinates": "52.623333, -1.133333",
       "Contact": "Svetlana Zolotikova",
