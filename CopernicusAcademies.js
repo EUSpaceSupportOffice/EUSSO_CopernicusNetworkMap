@@ -1739,17 +1739,9 @@ const academies = [
     "Name": "Universidad de Sevilla",
     "Address": "San Fernando street, 4, 41004, Seville (Seville), Spain",
     "Coordinates": "37.383333, -5.993056",
-    "Contact": "Miguel Torres Garcia",
-    "Email": "migueltorres@us.es",
-    "Link": "https://www.us.es/"
-  },
-  {
-    "Name": "Universidad de Sevilla - Escuela Tecnica Superior de Ingenieros",
-    "Address": "Calle de Francisco de Xerez, 1, 41092, Seville (Andalusia), Spain",
-    "Coordinates": "37.343333, -5.983056",
     "Contact": "Cristina Torrecillas",
     "Email": "torrecillas@us.es",
-    "Link": "https://etsi.us.es/"
+    "Link": "https://www.us.es/"
   },
   {
     "Name": "University of Huelva - Research group \"Integrated management of agricultural and natural resourcesâ€",
