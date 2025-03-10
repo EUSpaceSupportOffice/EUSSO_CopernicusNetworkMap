@@ -291,8 +291,8 @@
       "Name": "AFIGEO  - Association Française pour l ™Information Geographique",
       "Address": "73, avenue de Paris 94165 Saint-Mande Cedex, France",
       "Coordinates": "48.823056, 2.432778",
-      "Contact": "Pierre-Yves Vion",
-      "Email": "pierre-yves.vion@teledetection.fr",
+      "Contact": "Frédéric Portet",
+      "Email": "frederic.portet@agroparistech.fr",
       "Link": "https://www.afigeo.asso.fr/"
     },
     {
