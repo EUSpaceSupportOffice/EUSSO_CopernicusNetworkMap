@@ -555,8 +555,8 @@ const academies = [
     "Name": "University of Applied Sciences Stuttgart - Faculty of Geomatics, Computer Science and Mathematics, Department of Geomatics",
     "Address": "Schellingstr. 24 - Stuttgart Germany",
     "Coordinates": "48.785278, 9.180833",
-    "Contact": "Dietrich Schröder",
-    "Email": "dietrich.schroeder@hft-stuttgart.de",
+    "Contact": "Michael Mommert",
+    "Email": "michael.mommert@hft-stuttgart.de",
     "Link": "https://www.hft-stuttgart.com/geomatics/master-photogrammetry-and-geoinformatics"
   },
   {
