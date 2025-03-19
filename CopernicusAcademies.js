@@ -1659,8 +1659,8 @@ const academies = [
     "Name": "University Complutense of Madrid - Geography Department",
     "Address": "Calle del Obispo Trejo 8, 28005, Madrid, Spain",
     "Coordinates": "40.44930218693447, -3.7346624180755685",
-    "Contact": "Gustavo Romanillos",
-    "Email": "gustavro@ucm.es",
+    "Contact": "Nuria de Andrés",
+    "Email": "nandresp@ucm.es",
     "Link": "https://www.ucm.es/geographyandhistory"
   },
   {
