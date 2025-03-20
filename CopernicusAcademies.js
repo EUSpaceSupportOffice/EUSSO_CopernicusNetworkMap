@@ -763,8 +763,8 @@ const academies = [
     "Name": "Comision para el Desarrollo Cienti­fico y Tecnologico de Centroamerica y Panama (CT-CAP) - Secretaria Nacional de Ciencia y Tecnologia de la Republica de Guatemala (Senacyt)\n[Member of CSUCA consor...",
     "Address": "3av. 13-28 Zona 1 - Guatemala City, Guatemala",
     "Coordinates": "14.638889, -90.513889",
-    "Contact": "Ana Judith Chan Orantes",
-    "Email": "achan@senacyt.gob.gt",
+    "Contact": "Wendy Rodriguez",
+    "Email": "wrodriguez@senacyt.gob.com",
     "Link": "https://www.senacyt.gob.pa/direccion-de-desarrollo-de-capacidades-cientificas-y-tecnologicas/"
   },
   {
