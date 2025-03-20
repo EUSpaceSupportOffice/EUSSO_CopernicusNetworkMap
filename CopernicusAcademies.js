@@ -1635,8 +1635,8 @@ const academies = [
     "Name": "Jaume I University - Institute of New Imaging Technologies (INIT)",
     "Address": "Avda. Sos Baynat, s/n, Universidad Jaume I, Castellon de la Plana. Castellon - 12071 Espana",
     "Coordinates": "39.983333, -0.053056",
-    "Contact": "Joaqui­n Huerta Guijarro",
-    "Email": "huerta@uji.es",
+    "Contact": "Sven Casteleyn",
+    "Email": "sven.casteleyn@uji.es",
     "Link": "https://www.init.uji.es/?lang=en"
   },
   {
