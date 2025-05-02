@@ -104,28 +104,12 @@ const academies = [
     "Link": "https://aggf.unibl.org/en"
   },
   {
-    "Name": "Sofia University \"St. Kliment Ohridski\" - Department of Meteorology and Geophysics",
-    "Address": "Sofia 1164, 5, James Bourchier Boulvrd., corpus C, 4th floor",
-    "Coordinates": "42.696944, 23.322778",
-    "Contact": "Nikolay Rachev",
-    "Email": "nick@phys.uni-sofia.bg",
-    "Link": "https://www.phys.uni-sofia.bg/~elfa/list/startsite/mg1_en.html"
-  },
-  {
     "Name": "Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS)",
     "Address": "Acad G Bonchev St Block 1 Sofia-grad 1113 Sofia, Bulgaria",
     "Coordinates": "42.705556, 23.315",
     "Contact": "Lachezar Filchev",
     "Email": "lachezarhf@mail.space.bas.bg",
     "Link": "http://space.bas.bg/en/index.html"
-  },
-  {
-    "Name": "Observation Group of Southern Patagonia - GOPA",
-    "Address": "Pasaje Patagona, 6200000 Punta Arenas, Chile",
-    "Coordinates": "-53.153333, -70.905833",
-    "Contact": "Rene Munoz Arriagada",
-    "Email": "rene.munoz@umag.cl",
-    "Link": ""
   },
   {
     "Name": "Universidad de Magallanes",
@@ -142,14 +126,6 @@ const academies = [
     "Contact": "Paulina Vidal",
     "Email": "paulina.vidal@umayor.cl",
     "Link": "https://hemera.umayor.cl/"
-  },
-  {
-    "Name": "Universidad Tecnica Frederico Santa Maria - Academia de Ciencias Aeronauticas",
-    "Address": "Avenida Santa MarÃ­a 6400, Vitacura, Santiago, Chile",
-    "Coordinates": "-33.405556, -70.611667",
-    "Contact": "Rodrigo Suarez",
-    "Email": "rodrigo.suarez@usm.cl",
-    "Link": "https://www.aca.cl/"
   },
   {
     "Name": "Corporacion Red Nacional Academica de Tecnologi­a Avanzada-Renata",
@@ -240,14 +216,6 @@ const academies = [
     "Link": "https://oikon.hr/"
   },
   {
-    "Name": "Faculty of Agrobiotechnical Sciences Osijek, Josip Juraj Strossmayer University of Osijek",
-    "Address": "Vladimira Preloga 1 31000 Osijek, Croatia",
-    "Coordinates": "45.557222, 18.691389",
-    "Contact": "Mladen Jurisic",
-    "Email": "mjurisic@fazos.hr",
-    "Link": "https://www.fazos.unios.hr/"
-  },
-  {
     "Name": "University of Zagreb - Faculty of Geodesy",
     "Address": "KaÄiceva Ulica 26 10000 Zagreb, Croatia",
     "Coordinates": "45.816667, 15.983333",
@@ -302,14 +270,6 @@ const academies = [
     "Contact": "Jan Vesely",
     "Email": "vesely@planetum.cz",
     "Link": "https://www.eserocz.cz/o-esa-esero"
-  },
-  {
-    "Name": "SCIENCE IN (CZ), S.r.o.",
-    "Address": "Ãšvoz 161/22 11800 Prag, Czech Republic",
-    "Coordinates": "50.084722, 14.402778",
-    "Contact": "Petr Mares",
-    "Email": "mares@sciencein.cz",
-    "Link": "https://www.sciencein.cz/"
   },
   {
     "Name": "Masaryk University - Faculty of Science, Department of Geography",
@@ -408,14 +368,6 @@ const academies = [
     "Link": "https://enseirb-matmeca.bordeaux-inp.fr/fr"
   },
   {
-    "Name": "Bordeaux Sciences Agro, Montpellier Sup Agro",
-    "Address": "1 Cours du General de Gaulle, 33170 Gradignan, France",
-    "Coordinates": "44.730556, -0.597222",
-    "Contact": "Christian Germain",
-    "Email": "Christian.germain@agro-bordeaux.fr",
-    "Link": "https://www.agro-bordeaux.fr/"
-  },
-  {
     "Name": "IRISPACE (Institut Régional de l'Innovation Spatiale de Bretagne)",
     "Address": "IMT Atlantique Bretagne-Pays de la Loire\nCampus de Brest\nTechnopÃ´le Brest-Iroise\nCS 83818\n29238 Brest Cedex 3",
     "Coordinates": "48.403333, -4.481389",
@@ -512,14 +464,6 @@ const academies = [
     "Link": "https://www.minesparis.psl.eu/en/home/"
   },
   {
-    "Name": "Universite Cote d'Azur",
-    "Address": "28 Avenue de ValroseÂ 06103 Nice, France",
-    "Coordinates": "43.733333, 7.266667",
-    "Contact": "Aurelie Delort",
-    "Email": "Aurelie.Delort@univ-cotedazur.fr",
-    "Link": "https://univ-cotedazur.fr/"
-  },
-  {
     "Name": "Universite Paris 1 Pantheon - Sorbonne",
     "Address": "12 Place du Pantheon, 75005 Paris, France",
     "Coordinates": "48.852778, 2.347222",
@@ -528,28 +472,12 @@ const academies = [
     "Link": "https://www.pantheonsorbonne.fr/"
   },
   {
-    "Name": "Universite Toulouse III-Paul-Sabatier",
-    "Address": "118 rte Narbonne, 31400 Toulouse, France",
-    "Coordinates": "43.552500, 1.482222",
-    "Contact": "Odile Rauzy",
-    "Email": "odile.rauzy@univ-tlse3.fr",
-    "Link": "https://www.univ-tlse3.fr/"
-  },
-  {
     "Name": "VisioTerra",
     "Address": "14 r Albert Einstein, 77420 Champs sur Marne, France",
     "Coordinates": "48.853333, 2.554722",
     "Contact": "Serge RIAZANOFF",
     "Email": "serge.riazanoff@visioterra.fr",
     "Link": "https://www.visioterra.fr/web/?lang=en"
-  },
-  {
-    "Name": "Afrosurface UG",
-    "Address": "EddelbÃ¼ttel Straße 25, Hamburg Germany",
-    "Coordinates": "53.599167, 9.990278",
-    "Contact": "Olalekan Adebayo",
-    "Email": "Ola.adebayo@afrosurv.com",
-    "Link": "https://www.afrosurv.com/"
   },
   {
     "Name": "University of Applied Sciences Stuttgart - Faculty of Geomatics, Computer Science and Mathematics, Department of Geomatics",
@@ -592,14 +520,6 @@ const academies = [
     "Link": "https://www.ph-heidelberg.de/unesco-chair/"
   },
   {
-    "Name": "Technische Hochschule Georg Agricola University (THGA) - Research Center of Post-Mining",
-    "Address": "Herner Street 45 Â· 44787 Bochum, Germany",
-    "Coordinates": "51.483333, 7.323056",
-    "Contact": "Peter Goerke-Mallet",
-    "Email": "peter.goerke-mallet@thga.de",
-    "Link": "https://www.thga.de/"
-  },
-  {
     "Name": "Ruhr University Bochum - Geomatics Research Group (GRP), Institute of Geography",
     "Address": "UniversitÃ¤tsstraße 150 - 44801 Bochum, Germany",
     "Coordinates": "51.444167, 7.315556",
@@ -638,14 +558,6 @@ const academies = [
     "Contact": "Antonios Mouratidis",
     "Email": "amourati@auth.gr",
     "Link": "https://www.auth.gr/en/"
-  },
-  {
-    "Name": "Biomimicry Greece Research & Innovation Center",
-    "Address": "Palama 4, Larissa, Greece",
-    "Coordinates": "39.629722, 22.390278",
-    "Contact": "Kleopatra Alamantariotou",
-    "Email": "kleopatra229@yahoo.co.uk",
-    "Link": "https://www.biomimicrygreece.gr/"
   },
   {
     "Name": "Center for Research and Technology Hellas (CERTH) - Information Technologies Institute & Hellenic Institute of Transport",
@@ -822,14 +734,6 @@ const academies = [
     "Contact": "Sqndor Frey",
     "Email": "frey.sandor@geo-sentinel.eu",
     "Link": "https://geo-sentinel.eu/about-us/"
-  },
-  {
-    "Name": "Dublin Institute for Advanced Studies",
-    "Address": "10 Burlington Road Dublin D04 C932 Dublin, Ireland",
-    "Coordinates": "53.340556, -6.257500",
-    "Contact": "Sergei Lebedev",
-    "Email": "sergei@cp.dias.ie",
-    "Link": "https://www.dias.ie/"
   },
   {
     "Name": "Maynooth University",
@@ -1288,14 +1192,6 @@ const academies = [
     "Link": "https://environmentalmalta.com/"
   },
   {
-    "Name": "University of Malta",
-    "Address": "University of Malta, Tal-Qroqq, MSD2080 Msida, Central Region, Msida, Malta Majjistral",
-    "Coordinates": "35.890278, 14.493056",
-    "Contact": "Aldo Drago",
-    "Email": "aldo.drago@um.edu.mt",
-    "Link": "https://www.um.edu.mt/"
-  },
-  {
     "Name": "Comision Economica para America Latina y el Caribe Sede Subregional en Mexico (CEPAL)\n[Member of CSUCA consortium]",
     "Address": "Presidente Mazarik No.29-5O Piso Polanco, Miguel Hidalgo, 11570 Ciudad de Mexico, Distrito Federal, Mexico",
     "Coordinates": "19.433333, -99.158056",
@@ -1310,14 +1206,6 @@ const academies = [
     "Contact": "Stef Lhermitte",
     "Email": "s.lhermitte@tudelft.nl",
     "Link": "https://www.tudelft.nl/en/"
-  },
-  {
-    "Name": "European School The Hague",
-    "Address": "Oostduinlaan 50, 2596 JP The Hague, The Netherlands",
-    "Coordinates": "52.103333, 4.323056",
-    "Contact": "Caroline Emery",
-    "Email": "c.emery@eshthehague.nl",
-    "Link": "https://www.europeanschoolthehague.nl/"
   },
   {
     "Name": "Leiden University - Department of Astronomy",
@@ -1390,14 +1278,6 @@ const academies = [
     "Contact": "Muhammad Ahsan Latif",
     "Email": "mahsanlatif@uaf.edu.pk",
     "Link": "https://web.uaf.edu.pk/"
-  },
-  {
-    "Name": "University of Engineering and Technology - Intelligent Information Processing Lab, National Center of Artificial Intelligence",
-    "Address": "GT Road, Lahore, Lahore, Punjab 54890, Pakistan",
-    "Coordinates": "31.563333, 74.308056",
-    "Contact": "Khan Muhammad",
-    "Email": "khan.m@uetpeshawar.edu.pk",
-    "Link": "https://ncai.pk/"
   },
   {
     "Name": "Universidad tecnologica de Panama\n[Member of CSUCA consortium]",
@@ -1568,14 +1448,6 @@ const academies = [
     "Link": "https://www.sinergise.com/"
   },
   {
-    "Name": "University of Ljubljana - Faculty of Civil and Geodetic Engineering",
-    "Address": "Jamova cesta 2, 1000 Ljubljana, Slovenia",
-    "Coordinates": "46.047077567890945, 14.49764868120439",
-    "Contact": "Kristof Ostir",
-    "Email": "kristof.ostir@fgg.uni-lj.si",
-    "Link": "https://www.en.fgg.uni-lj.si/"
-  },
-  {
     "Name": "Campus Excelencia Agroalimentario (ceiA3)",
     "Address": "Calle de Alfonso XII 13, 14002, Cordoba (AndalucÃ­a), Spain",
     "Coordinates": "37.883333, -4.783056",
@@ -1584,28 +1456,12 @@ const academies = [
     "Link": "http://www.ceia3.es/"
   },
   {
-    "Name": "Centro Integrado Formacion Profesional Almazcara",
-    "Address": "Fina La Dehesa, Calle la Dehesa, Almazcara (Leon), Spain",
-    "Coordinates": "42.523333, -5.553056",
-    "Contact": "Celso Coco",
-    "Email": "almazcara@forestry.es",
-    "Link": "http://cifpalmazcara.centros.educa.jcyl.es/sitio/"
-  },
-  {
     "Name": "Colegio Oficial de Ingenieros de Telecomunicacion",
     "Address": "C/ Almagro 2 1Âº Izqda 28010 Madrid, Spain",
     "Coordinates": "40.43194901491657, -3.6931217851916696",
     "Contact": "Adrian Nogales Escudero",
     "Email": "anogales@coit.es",
     "Link": "https://teleko.eus/"
-  },
-  {
-    "Name": "Euskal Herriko Unibersitatea (EHU - University of the Basque Country)",
-    "Address": "Barrio Sarriena street, 48940, Leioa (Biscay), Spain",
-    "Coordinates": "43.323333, -2.983056",
-    "Contact": "Ekhi Roteta",
-    "Email": "ekhi.roteta@gmail.com",
-    "Link": "https://www.ehu.eus/en/en-home"
   },
   {
     "Name": "GRUMETS - Methods and Applications in Remote Sensing and Geographic Information Systems Research Group",
@@ -1672,14 +1528,6 @@ const academies = [
     "Link": "https://www.uca.es/"
   },
   {
-    "Name": "Universidad de Cantabria",
-    "Address": "Castros Avenue, 39005, Santander (Cantabria), Spain",
-    "Coordinates": "43.471712782861445, -3.8019711924115898",
-    "Contact": "Antonio S.  Cofino",
-    "Email": "antonio.cofino@unican.es",
-    "Link": "https://web.unican.es/"
-  },
-  {
     "Name": "Universidad de Castilla-La Mancha - Instituto de Desarrollo Regional",
     "Address": "Paseo de los Estudiantes, s/n, 02006 Albacete, Spain",
     "Coordinates": "38.993333, -1.863056",
@@ -1704,14 +1552,6 @@ const academies = [
     "Link": "https://coello.ujaen.es/investigacion/websft/index_en.html"
   },
   {
-    "Name": "Universidad de Las Palmas de Gran Canaria - Instituto Universitario SIANI",
-    "Address": "Edificio Central del Parque Cienti­fico y Tecnologico, Campus Universitario de Tafira - 35017 Las Palmas de Gran Canaria, Espana",
-    "Coordinates": "28.103333, -15.413056",
-    "Contact": "Antonio Falcon Martel",
-    "Email": "antonio.falcon@ulpgc.es",
-    "Link": "https://www.siani.es/es/home.html"
-  },
-  {
     "Name": "European Topic Centre on Spatial Analysis and Synthesis - University of Malaga (ETC-UMA)",
     "Address": "Edificio de Investigacion Ada Byron, Arquitecto Francisco Penalosa, 18, Campanillas, 29010 Malaga, Spain",
     "Coordinates": "36.723333, -4.453056",
@@ -1728,14 +1568,6 @@ const academies = [
     "Link": "https://www.upm.es/"
   },
   {
-    "Name": "Universidad de Oviedo - Escuela de Ingenieri­a de Minas, Energia y Materiales",
-    "Address": "Calle de Asturias 13, 33004, Oviedo (Asturias), Spain",
-    "Coordinates": "43.363333, -5.843056",
-    "Contact": "Pablo Cienfuegos",
-    "Email": "cienfuegospablo@uniovi.es",
-    "Link": "https://www.uniovi.es/"
-  },
-  {
     "Name": "Universidad de Sevilla",
     "Address": "San Fernando street, 4, 41004, Seville (Seville), Spain",
     "Coordinates": "37.383333, -5.993056",
@@ -1750,14 +1582,6 @@ const academies = [
     "Contact": "Eduardo Moreno Cuesta",
     "Email": "emoreno@uhu.es",
     "Link": "https://uhu.es/"
-  },
-  {
-    "Name": "Universitat Politecnica de Valencia - Escuela Tecnica Superior Ingenieria Geodesica, Cartografica y Topografica",
-    "Address": "ETSI Geodesica, Cartogr. y Top., Camino de Vera, s/n, Edificio 7 i, 46022, Valencia, Spain",
-    "Coordinates": "39.48113590985179, -0.3370375316009184",
-    "Contact": "Jorge Recio",
-    "Email": "jrecio@cgf.upv.es",
-    "Link": "https://www.upv.es/entidades/ETSIGCT/"
   },
   {
     "Name": "Universitat de Valencia Estudi-General (UVEG) - Unidad de Cambio Global (UCG)",
