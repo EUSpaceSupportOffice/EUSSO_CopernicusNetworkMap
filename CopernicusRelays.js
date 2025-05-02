@@ -96,14 +96,6 @@
       "Link": "https://rst-tto.com/pro_rst.html"
     },
     {
-      "Name": "Centro de Informacion de Recursos Naturales (CIREN)",
-      "Address": "Avenida Manuel Montt 1164, Providencia, Santiago, Chile",
-      "Coordinates": "-33.423889, -70.626944",
-      "Contact": "Daniela González Espinoza",
-      "Email": "dgonzalez@ciren.cl",
-      "Link": "https://www.ciren.cl/"
-    },
-    {
       "Name": "Fundacion Empresarial Eurochile",
       "Address": "Calle Galvarino Gallardo 1690, Providencia, Santiago - Chile",
       "Coordinates": "-33.425, -70.619722",
@@ -272,14 +264,6 @@
       "Link": "https://en.ilmatieteenlaitos.fi/"
     },
     {
-      "Name": "Turku Science Park Oy",
-      "Address": "Joukahaisenkatu 3A 20520 Turku, Finland",
-      "Coordinates": "60.449167, 22.261944",
-      "Contact": "Timo Huttunen",
-      "Email": "timo.huttunen@turkubusinessregion.com",
-      "Link": "https://www.turku.fi/en/housing-and-environment/urban-planning/city-planning/turku-science-park"
-    },
-    {
       "Name": "Aerospace Valley (representative of the NOVA Booster consortium)",
       "Address": "118 rte Narbonne, 31400 Toulouse",
       "Coordinates": "43.56335, 1.48814",
@@ -392,14 +376,6 @@
       "Link": "https://www.space4dev.fr/"
     },
     {
-      "Name": "Union Regionale des Ingenieurs et Scientifiques en Aquitaine",
-      "Address": "99 r Judaïque, 33000 Bordeaux, France",
-      "Coordinates": "44.837222, -0.5775",
-      "Contact": "Philippe Delavier",
-      "Email": "president@urisa.fr",
-      "Link": "https://www.iesf-na.fr/"
-    },
-    {
       "Name": "AZO  - Anwendungzsentrum GmbH Oberpfaffenhofen",
       "Address": "Claude-Dornier-StraÃŸe 1\nBuilding 401 - 82234 WeÃŸling, Germany",
       "Coordinates": "48.082222, 11.441667",
@@ -430,14 +406,6 @@
       "Contact": "Bjorn Baschek",
       "Email": "copernicus@bafg.de",
       "Link": "https://www.chr-khr.org/en/institute/federal-institute-hydrology"
-    },
-    {
-      "Name": "BGR  - Federal Institute for Geosciences and Natural Resources",
-      "Address": "Geozentrum Hannover\nStilleweg 2 D-30655 Hannover, Germany",
-      "Coordinates": "52.371667, 9.738889",
-      "Contact": "Michaela Frei",
-      "Email": "Michaela.frei@bgr.de",
-      "Link": "https://www.bgr.bund.de/EN/Home/homepage_node_en.html"
     },
     {
       "Name": "BKA  - Bundeskriminalamt",
@@ -472,7 +440,7 @@
       "Link": "https://ddgi.de/"
     },
     {
-      "Name": "DLR  - German Aerospace Center",
+      "Name": "DLR  - German Space Agency",
       "Address": "Linder Hohe Â· 51147 Cologne, Germany",
       "Coordinates": "50.944167, 6.954167",
       "Contact": "Jens  Danzeglocke",
@@ -518,14 +486,6 @@
       "Contact": "Heike Gerighausen",
       "Email": "heike.gerighausen@julius-kuehn.de",
       "Link": "https://www.julius-kuehn.de/en/"
-    },
-    {
-      "Name": "LfULG  - Saxon State Office for Environment, Agriculture and Geology",
-      "Address": "Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie\nPostfach 54 01 37 - 01311 Dresden, Germany",
-      "Coordinates": "51.048056, 13.738611",
-      "Contact": "Christine Ziegler",
-      "Email": "christine.ziegler@smul.sachsen.de",
-      "Link": "https://www.umwelt.sachsen.de/umwelt/klaps/state_agency_environment_agriculture_geology.htm"
     },
     {
       "Name": "LfU (Landesamt für Umwelt SH)",
@@ -830,14 +790,6 @@
       "Contact": "Ana Oliveira",
       "Email": "ana.oliveira@colabatlantic.com",
       "Link": ""
-    },
-    {
-      "Name": "CRIAR Space Systems",
-      "Address": "Via do Conhecimento, Edificio Central 3830-352 Aveiro, Portugal",
-      "Coordinates": "40.61920445982197, -8.667200575448117",
-      "Contact": "Sergio da Silva",
-      "Email": "pu2xxt@criar.space",
-      "Link": "https://datasat.space/site/"
     },
     {
       "Name": "Direçao-Geral do Territorio",
