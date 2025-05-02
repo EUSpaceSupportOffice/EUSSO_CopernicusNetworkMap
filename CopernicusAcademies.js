@@ -556,7 +556,15 @@ const academies = [
     "Address": "CSIR Office Complex 6, Agostino Neto Road, Accra, Greater Accra, Ghana",
     "Coordinates": "5.572222, -0.193611",
     "Contact": "Kwame Oppong Hackman",
-    "Email": "hackman.k@wascal.org",
+    "Email": "hackman.k@wascal.or",
+    "Link": "https://wascal.org/"
+  },
+  {
+    "Name": "WASCAL Competence Center (CoC)",
+    "Address": "Avenue Mouammar Kadhafi, Ouaga 2000 - 06 BP 9507, Ouagadougou, Burkina Faso",
+    "Coordinates": "12.328, -1.502",
+    "Contact": "Valentin Ouedraogo",
+    "Email": "ouedraogo.v@wascal.org",
     "Link": "https://wascal.org/"
   },
   {
