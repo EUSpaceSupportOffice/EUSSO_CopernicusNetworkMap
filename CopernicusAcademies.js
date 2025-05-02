@@ -89,7 +89,7 @@ const academies = [
   },
   {
     "Name": "Observatorio Agroambiental y Productivo (OAyP)",
-    "Address": "Via della Vasca Navale 79, Rome Italy",
+    "Address": "GV28+5XM, Av. Camacho, La Paz Bolivia",
     "Coordinates": "-16.497812867382596, -68.13567754733708",
     "Contact": "Melisa Abalos Choque",
     "Email": "melisa.abalos@gmail.com",
@@ -109,6 +109,14 @@ const academies = [
     "Coordinates": "42.705556, 23.315",
     "Contact": "Lachezar Filchev",
     "Email": "lachezarhf@mail.space.bas.bg",
+    "Link": "http://space.bas.bg/en/index.html"
+  },
+  {
+    "Name": "Sofia University “St. Kliment Ohridski” - Department of Meteorology and Geophysics",
+    "Address": "5, James Bourchier Boulvrd, 1164 Sofia, Bulgaria",
+    "Coordinates": "42.67437, 23.33056",
+    "Contact": "Elisaveta Peneva",
+    "Email": "elfa@phys.uni-sofia.bg",
     "Link": "http://space.bas.bg/en/index.html"
   },
   {
