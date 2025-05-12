@@ -731,8 +731,8 @@
       "Name": "NINA  - Norwegian Institute for Nature research",
       "Address": "Torgarden, 7485 Trondheim, Norway",
       "Coordinates": "63.450278, 10.398056",
-      "Contact": "Matteo De Stefano",
-      "Email": "Matteo.destefano@nina.no",
+      "Contact": "Katarzyna Ostapowicz",
+      "Email": "katarzyna.ostapowicz@nina.no",
       "Link": "https://www.nina.no/english/Home"
     },
     {
