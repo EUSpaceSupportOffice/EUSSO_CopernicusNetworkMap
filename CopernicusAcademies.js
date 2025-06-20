@@ -1719,7 +1719,7 @@ const academies = [
     "Email": "sukocaman@gmail.com",
     "Link": "https://www.geoplato.com/"
   },
-    {
+  {
     "Name": "MGC Consulting Niger",
     "Address": "SONUCI , Niamey - Niger",
     "Coordinates": "13.54898, 2.06733",
