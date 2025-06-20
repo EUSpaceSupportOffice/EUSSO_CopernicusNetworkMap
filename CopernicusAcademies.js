@@ -1711,6 +1711,14 @@ const academies = [
     "Email": "donatella.dominici@univaq.it",
     "Link": "https://diceaa.univaq.it/index.php?id=3509&no_cache=1"
   },
+  {
+    "Name": "GeoPlato Engineering",
+    "Address": "İlkadım, Yeşil Vadi Caddesi No: 45, 06450 Çankaya/Ankara, Türkiye",
+    "Coordinates": "39.89092, 32.84323",
+    "Contact": "Sultan Kocaman Gokceoglu",
+    "Email": "sukocaman@gmail.com",
+    "Link": "https://www.geoplato.com/"
+  },
     {
     "Name": "MGC Consulting Niger",
     "Address": "SONUCI , Niamey - Niger",
