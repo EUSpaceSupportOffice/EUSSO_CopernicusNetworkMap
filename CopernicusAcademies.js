@@ -250,7 +250,7 @@ const academies = [
   {
     "Name": "Cyprus University of Technology - Eratosthenes Centre of Excellence",
     "Address": "82 Franklin Roosevelt, 3012,\nLemesos, Cyprus",
-    "Coordinates": "34.690556, 33.047222",
+    "Coordinates": "34.66761, 33.02509",
     "Contact": "Diofantos Gl.  Hadjimitsis",
     "Email": "d.hadjimitsis@cut.ac.cy",
     "Link": "https://www.eratosthenes.org.cy/"
