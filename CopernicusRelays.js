@@ -960,7 +960,7 @@
       "Link": "https://le.ac.uk/chemistry/about/facilities/em-satapps"
     },
     {
-       "Name": "Ministère en charge de la transition écologique (Commissariat Général au Développement Durable)",
+      "Name": "Ministère en charge de la transition écologique (Commissariat Général au Développement Durable)",
       "Address": "Tour Sequoia, 1 place Carpeaux - 92800 Puteaux, France",
       "Coordinates": "48.89425, 2.24009",
       "Contact": "Alexis Foussard",
