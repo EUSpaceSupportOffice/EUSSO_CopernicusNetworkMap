@@ -93,7 +93,7 @@
       "Coordinates": "42.696111, 23.3225",
       "Contact": "Veronika Lozanova",
       "Email": "v.lozanova@rst-tto.com",
-      "Link": "https://rst-tto.com/"
+      "Link": "https://rst-tto.com/rsttakt/"
     },
     {
       "Name": "Fundacion Empresarial Eurochile",
