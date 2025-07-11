@@ -248,11 +248,19 @@ const academies = [
     "Link": "https://www.spaceexploration.org.cy/"
   },
   {
-    "Name": "Cyprus University of Technology - Eratosthenes Centre of Excellence",
-    "Address": "82 Franklin Roosevelt, 3012,\nLemesos, Cyprus",
-    "Coordinates": "34.66761, 33.02509",
+    "Name": "Cyprus University of Technology",
+    "Address": "Arch. Kyprianou 30, 3036 Limassol, Cyprus",
+    "Coordinates": "34.67587, 33.04430",
     "Contact": "Diofantos Gl.  Hadjimitsis",
     "Email": "d.hadjimitsis@cut.ac.cy",
+    "Link": "https://www.cut.ac.cy/?languageId=1"
+  },
+  {
+    "Name": "Eratosthenes Centre of Excellence",
+    "Address": "82 Franklin Roosevelt, 3012,\nLemesos, Cyprus",
+    "Coordinates": "34.66761, 33.02509",
+    "Contact": "Kyriacos Themistocleous",
+    "Email": "k.themistocleous@eratosthenes.org.cy",
     "Link": "https://www.eratosthenes.org.cy/"
   },
   {
