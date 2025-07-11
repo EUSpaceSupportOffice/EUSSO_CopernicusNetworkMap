@@ -1552,6 +1552,14 @@ const academies = [
     "Link": "https://www.uclm.es/centros-investigacion/Idr"
   },
   {
+    "Name": "University of Oviedo- Polytechnic School of Mieres - Department of Mining and Exploration",
+    "Address": "C/ Gonzalo Gutiérrez Quirós s/n. 33600 - Mieres, Spain",
+    "Coordinates": "43.24140, -5.77711",
+    "Contact": "Pablo Cienfuegos",
+    "Email": "cienfuegospablo@uniovi.es",
+    "Link": "https://www.uniovi.es/conocenos/centros/escuelas/epm"
+  },
+  {
     "Name": "Universitat de Girona (UdG) - Geographical Information Systems and Remote Sensing Service (SIGTE)",
     "Address": "Santo Domingo sq, 3 Les Aguiles Buidling, 17004, Girona (Girona), Spain",
     "Coordinates": "41.983333, 2.823056",
