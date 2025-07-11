@@ -232,14 +232,6 @@ const academies = [
     "Link": "https://www.geof.unizg.hr/en/"
   },
   {
-    "Name": "Cyprus Remote Sensing Society",
-    "Address": "2-8 Saripolou, Achilleos I Building, 1st Floor, Lemesos, Cyprus",
-    "Coordinates": "34.675833, 33.040278",
-    "Contact": "Kyriacos Themistocleous",
-    "Email": "RSCY@giscyprus.com",
-    "Link": "https://www.cyprusremotesensing.com/"
-  },
-  {
     "Name": "Cyprus Space Exploration Organisation",
     "Address": "Alkiviadi 1, 1016 Nicosia, Cyprus",
     "Coordinates": "35.169722, 33.374167",
