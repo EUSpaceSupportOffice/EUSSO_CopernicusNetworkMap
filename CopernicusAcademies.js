@@ -250,7 +250,7 @@ const academies = [
   {
     "Name": "Eratosthenes Centre of Excellence",
     "Address": "82 Franklin Roosevelt, 3012,\nLemesos, Cyprus",
-    "Coordinates": "34.66761, 33.02509",
+    "Coordinates": "34.66744968653069, 33.02510421043512",
     "Contact": "Kyriacos Themistocleous",
     "Email": "k.themistocleous@eratosthenes.org.cy",
     "Link": "https://www.eratosthenes.org.cy/"
