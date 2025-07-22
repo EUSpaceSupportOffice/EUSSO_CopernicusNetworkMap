@@ -1731,6 +1731,7 @@ const academies = [
     "Name": "Giovanni Serritella",
     "Address": "Ancona, Italy",
     "Coordinates": "43.65775, 13.507277",
+    "Contact": "Giovanni Serritella",
     "Email": "giovanni.serritella@eucopernicus.net",
     "Link": "https://www.linkedin.com/in/giovanni-serritella-a95323166/"
   },
