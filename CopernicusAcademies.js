@@ -1728,6 +1728,13 @@ const academies = [
     "Link": "https://www.geoplato.com/"
   },
   {
+    "Name": "Giovanni Serritella",
+    "Address": "Ancona, Italy",
+    "Coordinates": "43.65775, 13.507277",
+    "Email": "giovanni.serritella@eucopernicus.net",
+    "Link": "https://www.linkedin.com/in/giovanni-serritella-a95323166/"
+  },
+  {
     "Name": "MGC Consulting Niger",
     "Address": "SONUCI , Niamey - Niger",
     "Coordinates": "13.54898, 2.06733",
